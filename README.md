@@ -1,7 +1,39 @@
-# The Great Awakening Map V11 (2024) — Full OCR Transcription
+# The Great Awakening Map V11 (2024) — Full OCR Transcription & Research
 
-**Author:** Parinya "Champ" — ArtHouse
+**Author of the map:** Parinya "Champ" — ArtHouse
 **Subtitle:** THE GREAT AWAKENING • OPTIMAL TIMELINE REALITY • FULL DISCLOSURE
+
+---
+
+## Research Index (~210 topics investigated via web search)
+
+| # | Section | Topics | File |
+|---|---------|--------|------|
+| 1 | Ancient AI & Electric Sun | 9 | [01-ancient-ai-electric-sun.md](research/01-ancient-ai-electric-sun.md) |
+| 2 | Secret Space Program | 18 | [02-secret-space-program.md](research/02-secret-space-program.md) |
+| 3 | Ancient Builder Race & ET | 15 | [03-ancient-builder-race.md](research/03-ancient-builder-race.md) |
+| 4 | Moon, NASA & Space | 15 | [04-moon-nasa-space.md](research/04-moon-nasa-space.md) |
+| 5 | Spirituality & Meditation | 19 | [05-spirituality-meditation.md](research/05-spirituality-meditation.md) |
+| 6 | Entheogens & Psychedelics | 12 | [06-entheogens-psychedelics.md](research/06-entheogens-psychedelics.md) |
+| 7 | Cabal & Deep State | 16 | [07-cabal-deep-state.md](research/07-cabal-deep-state.md) |
+| 8 | QAnon & Political | 18 | [08-qanon-political.md](research/08-qanon-political.md) |
+| 9 | Inner Earth & Antarctica | 16 | [09-inner-earth-antarctica.md](research/09-inner-earth-antarctica.md) |
+| 10 | Ancient History & Archaeology | 18 | [10-ancient-history-archaeology.md](research/10-ancient-history-archaeology.md) |
+| 11 | Tesla, Healing & Free Energy | 18 | [11-tesla-healing-free-energy.md](research/11-tesla-healing-free-energy.md) |
+| 12 | Consciousness & ET Contact | 18 | [12-consciousness-et-contact.md](research/12-consciousness-et-contact.md) |
+| 13 | Control & Surveillance | 20 | [13-control-surveillance.md](research/13-control-surveillance.md) |
+
+**Total: ~210 topics** | **Total research: ~546 KB of sourced analysis**
+
+Each topic includes: what the map claims, where the idea originates, what evidence exists (or doesn't), and source URLs.
+
+---
+
+## Other files
+
+- `GreatAwakeningMap_2024_V11.jpg` — Original map image (5400x7200, 10MB)
+- `ocr_lightOn.txt` — Raw OCR output via LightOnOCR-2-1B (48 tiles)
+- `tiles/` — 48 image tiles used for OCR
 
 ---
 
