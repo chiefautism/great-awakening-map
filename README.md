@@ -38,58 +38,6 @@ The meta-analysis covers: the 5-act story arc, interconnection architecture, psy
 
 ---
 
-## Diagrams
-
-<table>
-<tr>
-<td width="50%">
-
-### The Grand Narrative
-5-act arc from Creation through Prison Planet to Solar Flash salvation
-
-![](diagrams/01-grand-narrative.svg)
-
-</td>
-<td width="50%">
-
-### Villain Hierarchy
-Ancient A.I. &rarr; Draco &rarr; Annunaki &rarr; Babylon &rarr; Templars &rarr; Deep State
-
-![](diagrams/02-villain-hierarchy.svg)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### The Radicalization Pipeline
-How documented facts (green) lead through speculation (orange) to unfalsifiable claims (purple)
-
-![](diagrams/03-radicalization-pipeline.svg)
-
-</td>
-<td width="50%">
-
-### Solar Flash Across Traditions
-The same cosmic fire event in Hindu, Zoroastrian, Stoic, Christian, and New Age frameworks
-
-![](diagrams/04-solar-flash-prophecies.svg)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### ET Races — Service-to-Others vs Service-to-Self
-
-![](diagrams/05-et-races-alignment.svg)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Research Index
 
 Every topic on the map — investigated via web search with source URLs.

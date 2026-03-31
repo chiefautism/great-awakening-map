@@ -1,5 +1,7 @@
 # Great Awakening Map -- Solar Flash & Cosmic Cycles Deep Research
 
+![Solar Flash Across Traditions](../diagrams/04-solar-flash-prophecies.svg)
+
 ---
 
 ## 16. Great Solar Flash -- Prophecy, Timeline, Solar Cycle 25

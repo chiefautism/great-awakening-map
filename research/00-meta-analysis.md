@@ -12,6 +12,8 @@ At first glance, the Great Awakening Map looks like chaos — 200+ topics from T
 
 ## The Grand Narrative (In One Page)
 
+![The Grand Narrative — 5 Acts](../diagrams/01-grand-narrative.svg)
+
 ### Act 1: The Fall
 
 Long ago, the universe was perfect. An **Infinite Creator** (Return to Source / The One) emanated all reality through sacred geometric patterns (Flower of Life, Merkaba, Vector Equilibrium). Advanced civilizations — the **Ancient Builder Race** — existed for billions of years across the solar system, building structures on Venus, Mars, and the Moon. They were 6th+ density beings of pure consciousness.
@@ -206,6 +208,8 @@ Ancient A.I. Signal, 20 & Back program, Anshar inner earth beings, Blue Avians, 
 ---
 
 ## The Pipeline
+
+![The Radicalization Pipeline](../diagrams/03-radicalization-pipeline.svg)
 
 The map functions as a **radicalization gradient** — it doesn't start with Reptilians. It starts with things you can verify:
 

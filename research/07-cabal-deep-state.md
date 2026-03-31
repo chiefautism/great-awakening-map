@@ -2,6 +2,8 @@
 
 A factual overview of 16 topics commonly found on the "Great Awakening Map," a QAnon-affiliated conspiracy diagram. Each section separates verified history from conspiracy claims and provides source links.
 
+![Villain Hierarchy — Ancient A.I. to Deep State](../diagrams/02-villain-hierarchy.svg)
+
 ---
 
 ## 1. Cabal / Deep State / Illuminati

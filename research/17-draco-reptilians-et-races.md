@@ -1,5 +1,7 @@
 # Great Awakening Map -- In-Depth Research: Alien & Entity Theories
 
+![ET Races — Service-to-Others vs Service-to-Self](../diagrams/05-et-races-alignment.svg)
+
 ---
 
 ## 1. Draco Reptilians -- David Icke's Theory
