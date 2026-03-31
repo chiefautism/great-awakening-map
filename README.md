@@ -11,6 +11,16 @@
 
 **[Read the full meta-analysis](research/00-meta-analysis.md)** — How 200+ topics form a single coherent cosmological narrative, from the Fall of an ancient civilization through a Prison Planet to a prophesied Solar Flash salvation. Includes the complete story arc, interconnection diagrams, psychological analysis of why it's compelling, evidence quality taxonomy, and the radicalization pipeline.
 
+### Diagrams
+
+| Diagram | Description |
+|---------|-------------|
+| ![](diagrams/01-grand-narrative.svg) | **The Grand Narrative** — 5-act story arc from Creation to Return to Source |
+| ![](diagrams/02-villain-hierarchy.svg) | **Villain Hierarchy** — Ancient A.I. → Draco → Annunaki → Cabal → Deep State |
+| ![](diagrams/03-radicalization-pipeline.svg) | **The Pipeline** — How documented facts lead to unfalsifiable mythology |
+| ![](diagrams/04-solar-flash-prophecies.svg) | **Solar Flash Prophecies** — Same event across 5 traditions |
+| ![](diagrams/05-et-races-alignment.svg) | **ET Races** — Service-to-Others vs Service-to-Self alignment |
+
 ---
 
 ## Research Index (~210+ topics investigated via web search)
