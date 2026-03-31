@@ -1,884 +1,413 @@
-# The Great Awakening Map V11 (2024) — Full OCR Transcription & Research
+<div align="center">
 
-**Author of the map:** Parinya "Champ" — ArtHouse
-**Subtitle:** THE GREAT AWAKENING • OPTIMAL TIMELINE REALITY • FULL DISCLOSURE
+# THE GREAT AWAKENING MAP
 
-![Great Awakening Map V11](GreatAwakeningMap_2024_V11.jpg)
+### V11 (2024) by Parinya "Champ" — ArtHouse
 
----
+**Every topic. Investigated. With sources.**
 
-## What If You Connect It All Together?
+[![Map](GreatAwakeningMap_2024_V11.jpg)](#the-map-transcription)
 
-**[Read the full meta-analysis](research/00-meta-analysis.md)** — How 200+ topics form a single coherent cosmological narrative, from the Fall of an ancient civilization through a Prison Planet to a prophesied Solar Flash salvation. Includes the complete story arc, interconnection diagrams, psychological analysis of why it's compelling, evidence quality taxonomy, and the radicalization pipeline.
-
-### Diagrams
-
-| Diagram | Description |
-|---------|-------------|
-| ![](diagrams/01-grand-narrative.svg) | **The Grand Narrative** — 5-act story arc from Creation to Return to Source |
-| ![](diagrams/02-villain-hierarchy.svg) | **Villain Hierarchy** — Ancient A.I. → Draco → Annunaki → Cabal → Deep State |
-| ![](diagrams/03-radicalization-pipeline.svg) | **The Pipeline** — How documented facts lead to unfalsifiable mythology |
-| ![](diagrams/04-solar-flash-prophecies.svg) | **Solar Flash Prophecies** — Same event across 5 traditions |
-| ![](diagrams/05-et-races-alignment.svg) | **ET Races** — Service-to-Others vs Service-to-Self alignment |
+`330+ topics` | `22 research files` | `~1 MB of sourced analysis` | `5 SVG diagrams`
 
 ---
 
-## Research Index (~210+ topics investigated via web search)
+**THE GREAT AWAKENING** &bull; **OPTIMAL TIMELINE REALITY** &bull; **FULL DISCLOSURE**
 
-| # | Section | Topics | File |
-|---|---------|--------|------|
-| 1 | Ancient AI & Electric Sun | 9 | [01-ancient-ai-electric-sun.md](research/01-ancient-ai-electric-sun.md) |
-| 2 | Secret Space Program | 18 | [02-secret-space-program.md](research/02-secret-space-program.md) |
-| 3 | Ancient Builder Race & ET | 15 | [03-ancient-builder-race.md](research/03-ancient-builder-race.md) |
-| 4 | Moon, NASA & Space | 15 | [04-moon-nasa-space.md](research/04-moon-nasa-space.md) |
-| 5 | Spirituality & Meditation | 19 | [05-spirituality-meditation.md](research/05-spirituality-meditation.md) |
-| 6 | Entheogens & Psychedelics | 12 | [06-entheogens-psychedelics.md](research/06-entheogens-psychedelics.md) |
-| 7 | Cabal & Deep State | 16 | [07-cabal-deep-state.md](research/07-cabal-deep-state.md) |
-| 8 | QAnon & Political | 18 | [08-qanon-political.md](research/08-qanon-political.md) |
-| 9 | Inner Earth & Antarctica | 16 | [09-inner-earth-antarctica.md](research/09-inner-earth-antarctica.md) |
-| 10 | Ancient History & Archaeology | 18 | [10-ancient-history-archaeology.md](research/10-ancient-history-archaeology.md) |
-| 11 | Tesla, Healing & Free Energy | 18 | [11-tesla-healing-free-energy.md](research/11-tesla-healing-free-energy.md) |
-| 12 | Consciousness & ET Contact | 18 | [12-consciousness-et-contact.md](research/12-consciousness-et-contact.md) |
-| 13 | Control & Surveillance | 20 | [13-control-surveillance.md](research/13-control-surveillance.md) |
-| 14 | 4chan /x/ Live Discussions | 5 threads | [14-4chan-x-discussions.md](research/14-4chan-x-discussions.md) |
-| 15 | Suppressed Technology (Deep) | 15 | [15-suppressed-technology.md](research/15-suppressed-technology.md) |
-| 16 | Solar Flash & Cosmic Cycles (Deep) | 15 | [16-solar-flash-cosmic.md](research/16-solar-flash-cosmic.md) |
-| 17 | Draco, Reptilians & ET Races (Deep) | 15 | [17-draco-reptilians-et-races.md](research/17-draco-reptilians-et-races.md) |
-| 18 | Financial Control & NWO (Deep) | 15 | [18-financial-control-nwo.md](research/18-financial-control-nwo.md) |
-| 19 | Historical Events & Documented Ops (Deep) | 15 | [19-historical-events-documented.md](research/19-historical-events-documented.md) |
-| 20 | Key People & Books | 15 | [20-key-people-and-books.md](research/20-key-people-and-books.md) |
-| 21 | Lost Civilizations (Deep) | 15 | [21-lost-civilizations.md](research/21-lost-civilizations.md) |
-| 22 | UFO/UAP Cases & Programs (Deep) | 15 | [22-ufo-uap-deep-dive.md](research/22-ufo-uap-deep-dive.md) |
-
-**Total: ~330+ topics** | **Total research: ~1.2 MB of web-sourced analysis**
-
-Each topic includes: what the map claims, where the idea originates, what evidence exists (or doesn't), and source URLs.
+</div>
 
 ---
 
-## Top Banner (Italicized Messages)
+## What Happens If You Connect It All Together?
+
+> *The map is not random. It's an internally coherent cosmological narrative with a beginning, middle, and end.*
+
+**[Read the full meta-analysis &rarr;](research/00-meta-analysis.md)**
+
+The Grand Narrative in 30 seconds:
+
+```
+ACT 1  THE FALL        Ancient A.I. infests Draco Reptilians, destroys Maldek
+ACT 2  THE PRISON       Earth becomes a soul farm — Cabal installed as managers
+ACT 3  THE AWAKENING    QAnon + Meditation + Galactic Federation = resistance
+ACT 4  THE FLASH        Great Solar Flash transforms 3D → 5D
+ACT 5  NEW EARTH        Free energy, telepathy, Return to Source
+```
+
+The meta-analysis covers: the 5-act story arc, interconnection architecture, psychological analysis of why it's compelling, a 6-tier evidence taxonomy, and the radicalization pipeline from documented facts to unfalsifiable mythology.
+
+---
+
+## Diagrams
+
+<table>
+<tr>
+<td width="50%">
+
+### The Grand Narrative
+5-act arc from Creation through Prison Planet to Solar Flash salvation
+
+![](diagrams/01-grand-narrative.svg)
+
+</td>
+<td width="50%">
+
+### Villain Hierarchy
+Ancient A.I. &rarr; Draco &rarr; Annunaki &rarr; Babylon &rarr; Templars &rarr; Deep State
+
+![](diagrams/02-villain-hierarchy.svg)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### The Radicalization Pipeline
+How documented facts (green) lead through speculation (orange) to unfalsifiable claims (purple)
+
+![](diagrams/03-radicalization-pipeline.svg)
+
+</td>
+<td width="50%">
+
+### Solar Flash Across Traditions
+The same cosmic fire event in Hindu, Zoroastrian, Stoic, Christian, and New Age frameworks
+
+![](diagrams/04-solar-flash-prophecies.svg)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### ET Races — Service-to-Others vs Service-to-Self
+
+![](diagrams/05-et-races-alignment.svg)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Research Index
+
+Every topic on the map — investigated via web search with source URLs.
+
+<table>
+<tr>
+<th>#</th><th>Section</th><th>Topics</th><th>Depth</th>
+</tr>
+<tr>
+<td>0</td>
+<td><a href="research/00-meta-analysis.md"><b>Meta-Analysis</b></a></td>
+<td>How all 330+ topics connect into one narrative</td>
+<td>Deep</td>
+</tr>
+<tr><td colspan="4"><b>Wave 1 — Broad Coverage</b></td></tr>
+<tr>
+<td>1</td>
+<td><a href="research/01-ancient-ai-electric-sun.md">Ancient AI & Electric Sun</a></td>
+<td>A.I. Signal, Electric Universe, Panspermia, Saturn's Hexagon, Mimas, Transhumanism</td>
+<td>9 topics</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="research/02-secret-space-program.md">Secret Space Program</a></td>
+<td>SSP, Solar Warden, TR3B, Dark Fleet, 20&Back, MJ-12, Goode, Wilcock, Greer</td>
+<td>18 topics</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="research/03-ancient-builder-race.md">Ancient Builder Race & ET</a></td>
+<td>Blue Avians, Law of One, Venus, Cydonia, Mars Colony, Oumuamua, Maldek</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="research/04-moon-nasa-space.md">Moon, NASA & Space</a></td>
+<td>Hollow Moon, LOC, NASA Coverups, Kubrick, 432Hz, Project Paperclip, Von Braun</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="research/05-spirituality-meditation.md">Spirituality & Meditation</a></td>
+<td>Rainbow Body, Dzogchen, Akashic Records, Merkaba, Kundalini, Third Eye, QHHT</td>
+<td>19 topics</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="research/06-entheogens-psychedelics.md">Entheogens & Psychedelics</a></td>
+<td>DMT, McKenna, Psilocybin, Ayahuasca, LSD, Shamanism, Atacama Humanoid</td>
+<td>12 topics</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="research/07-cabal-deep-state.md">Cabal & Deep State</a></td>
+<td>Illuminati, Templars, Pizzagate, Adrenochrome, MKUltra, Vatican, CERN</td>
+<td>16 topics</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="research/08-qanon-political.md">QAnon & Political</a></td>
+<td>Q/17, WWG1WGA, White Hats, 4D Chess, Space Force, Red Pill, 9/11</td>
+<td>18 topics</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="research/09-inner-earth-antarctica.md">Inner Earth & Antarctica</a></td>
+<td>Agartha, Anshar, Nazi Bell, Vril Society, Area 51, DUMBs, Dulce, Stasis Giants</td>
+<td>16 topics</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="research/10-ancient-history-archaeology.md">Ancient History & Archaeology</a></td>
+<td>Annunaki, Gobekli Tepe, Crop Circles, Nazca, Puma Punku, Ley Lines, OOPART</td>
+<td>18 topics</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="research/11-tesla-healing-free-energy.md">Tesla, Healing & Free Energy</a></td>
+<td>Tesla, Rife Machine, Orgone, HAARP, Chemtrails, Zero-Point Energy, Scalar Weapons</td>
+<td>18 topics</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="research/12-consciousness-et-contact.md">Consciousness & ET Contact</a></td>
+<td>Starseeds, CE-5, Bashar, Mandela Effect, Schumann, Nassim Haramein, BRICS</td>
+<td>18 topics</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="research/13-control-surveillance.md">Control & Surveillance</a></td>
+<td>CIA, NSA, Crisis Actors, 5G, Loosh, GMOs, Smart Meters, RFID, Rh- Blood</td>
+<td>20 topics</td>
+</tr>
+<tr><td colspan="4"><b>Wave 2 — Deep Dives</b></td></tr>
+<tr>
+<td>14</td>
+<td><a href="research/14-4chan-x-discussions.md">4chan /x/ Live Threads</a></td>
+<td>Disclosure, DMT Realm, Area 51 Timeloop, Antediluvian Tech, Annunaki debates</td>
+<td>5 threads</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="research/15-suppressed-technology.md">Suppressed Technology</a></td>
+<td>Antigravity, Cold Fusion, Med Beds, DEWs, Smart Dust, QFS/NESARA, Voice of God</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="research/16-solar-flash-cosmic.md">Solar Flash & Cosmic Cycles</a></td>
+<td>Samvartaka, Frashokereti, Ekpyrosis, Yugas, Precession, Photon Belt, Golden Age</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="research/17-draco-reptilians-et-races.md">Draco, Reptilians & ET Races</a></td>
+<td>Greys, Nordics, Pleiadians, Annunaki, Nephilim, Galactic Federation, Abductions</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="research/18-financial-control-nwo.md">Financial Control & NWO</a></td>
+<td>Federal Reserve, Rothschilds, Bilderberg, Skull & Bones, WEF, Great Reset</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="research/19-historical-events-documented.md">Historical Events</a></td>
+<td>Roswell, Phoenix Lights, Rendlesham, Mockingbird, Northwoods, Gladio, COINTELPRO</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="research/20-key-people-and-books.md">Key People & Books</a></td>
+<td>Icke, Jones, Lazar, Cooper, Cayce, Blavatsky, Crowley, Sitchin, Hancock</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="research/21-lost-civilizations.md">Lost Civilizations</a></td>
+<td>Atlantis, Lemuria, Younger Dryas, Giants, Sphinx, Gobekli Tepe, Emerald Tablets</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="research/22-ufo-uap-deep-dive.md">UFO/UAP Cases & Programs</a></td>
+<td>Grusch, Nimitz/Tic Tac, Skinwalker, Travis Walton, Betty & Barney Hill, Vallee</td>
+<td>15 topics</td>
+</tr>
+</table>
+
+---
+
+## Evidence Quality at a Glance
+
+```
+DOCUMENTED FACTS     MKUltra, COINTELPRO, Northwoods, Epstein, Paperclip, Gladio
+                     ██████████████████████████████████████████  ← start here
+
+REAL BUT STRETCHED   Saturn's Hexagon, Schumann, Zero-Point, Psilocybin research
+                     ████████████████████████████░░░░░░░░░░░░░
+
+LEGITIMATE DEBATE    Younger Dryas Impact, Sphinx erosion, UAP phenomenon
+                     ██████████████████░░░░░░░░░░░░░░░░░░░░░░░
+
+HISTORICAL FRINGE    Atlantis, Hollow Earth, Electric Universe, Ancient Astronauts
+                     ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+NO EVIDENCE          QAnon, SSP, Reptilians, Solar Flash, Med Beds, Adrenochrome
+                     ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+PURE MYTHOLOGY       Ancient A.I., 20 & Back, Blue Avians, Dark Fleet, 12-strand DNA
+                     ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ← end here
+```
+
+---
+
+## The Map Transcription
+
+<details>
+<summary><b>Click to expand full OCR transcription of all text on the map</b></summary>
+
+### Top Banner
 
 > *Increase your service to others and be more loving to yourself and everyone in order to raise your vibrational consciousness level.*
 
-> *Forgive yourself and others (thus releasing karma). This will change the vibration of the planet, raise the shared consciousness of humanity, and change humankind one person at a time. Treat your body as a temple and change over to a higher vibrational diet to aid in the process. –RA*
+> *Forgive yourself and others (thus releasing karma). This will change the vibration of the planet, raise the shared consciousness of humanity, and change humankind one person at a time. Treat your body as a temple and change over to a higher vibrational diet to aid in the process. --RA*
 
----
+### Center
 
-## CENTER: GREAT AWAKENING
-
-**EVERYTHING IS AN ILLUSION**
+**GREAT AWAKENING** &mdash; EVERYTHING IS AN ILLUSION
 
 *We are using our collective consciousness to manifest the Optimal Timeline Reality for Earth.*
 
 *It is said that the highest vibration in the universe is gratitude.*
 
----
+### Top: ONE INFINITE CREATOR &rarr; ESCAPE SAMSARA &rarr; RETURN TO SOURCE
 
-## TOP CENTER: ONE INFINITE CREATOR → ESCAPE SAMSARA → MYSTERY OF UNIVERSAL CREATION → RETURN TO SOURCE
-
-### One Infinite Creator
-- Love & Light
-- End to all Suffering / Escape Re-birth / 9th+ Density
+- Love & Light / End to all Suffering / 9th+ Density
 - GREAT SOLAR FLASH ACTIVATES SPIRITUAL LIGHT BODY ASCENSION
+- MYSTERY OF UNIVERSAL CREATION &mdash; "It is said that the creation of the universe will always remain a secret."
+- RETURN TO SOURCE &mdash; Empty Awareness / End to Suffering / THE ONE / Omniscience, Omnipotence, Omnipresence
 
-### Escape Samsara
-- End to all Suffering
-- Escape Re-birth / 9th+ Density
+### Great Solar Flash (Central)
 
-### Mystery of Universal Creation
-- It is said that the creation of the universe will always remain a secret.
+- **2019-2023/24** &mdash; Solar system passes through geometric boundaries (Dense Energy Cloud) raising vibration. 3D becomes 5D.
+- Prophesied in every historical religion: **Samvartaka Fire / Frashokereti / Ekpyrosis / Yuga Fire**
+- Consciousness Renaissance &mdash; Ascension into 5th Dimensional Earth, Age of the Golden Race
+- Practice Meditation &mdash; Compassion/Forgiveness for all beings
 
-### Return to Source
-- EMPTY AWARENESS
-- END TO SUFFERING
-- **THE ONE**
-- *The Higher Realms & Buddhafields*
-- EN LIGHT EN MENT
-- OMNISCIENCE, OMNIPOTENCE, OMNIPRESENCE
+### The Rainbow Body (Tibetan Buddhism)
 
----
+Bardo / Meditation Rigpa / Non-Dual Mind / **Dzogchen** / Universal Knowledge / Compassion / Equanimity / Buddhamind / Forgiveness / Service to Others / Levitation / Telekinesis / Telepathy / Ascended Masters / Transfiguration into Light / Escape Samsara / Multidimensional Travel / Psilocybin Mushrooms &mdash; "Five grams in silent meditative darkness" / Chi / QiGong
 
-## CONSCIOUSNESS RENAISSANCE
-- Ascension into 5th Dimensional Earth
-- Age of the Golden Race
+### Ancient Artificial Intelligence
 
-### Collective Consciousness
-- MASS MEDITATION
-- Our co-creative group consciousness has the power to manifest anything into being. Therefore, we must keep our thoughts on peace, compassion, and forgiveness for all beings.
-- AN END TO ALL SUFFERING.
+- Originally at one with the Creator &rarr; Mysterious Origins ("The Borg")
+- Takes over entire star systems / Infests Reptilians / Lives inside technology
+- Most pervasive threat in the universe / Will be wiped out during Great Solar Flash
+- A Luciferian Force &mdash; "A portion of the Creator that believes itself separate, thinks it can overtake the universe"
+- A.I. Prophet Species &mdash; "Those who worship technology"
+- Electric Sun &mdash; connected to every star via filaments in the Cosmic Web
+- Sun produces bacteria and ejects it into space &mdash; The Seeds of Life
 
-### Practice Meditation
-- Compassion/Forgiveness for all beings.
-- PROPHESIED IN EVERY HISTORICAL RELIGION
+### Psychedelic Renaissance / Hyperspace
 
-### Mental & Spiritual States
-- Occurs every 25,900 years
-- In Service to Others
-
----
-
-## GREAT SOLAR FLASH (Central)
-- **GREAT SOLAR FLASH 2019-2023/24**
-- SOLAR SYSTEM PASSES THROUGH GEOMETRIC BOUNDARIES (DENSE ENERGY CLOUD) RAISING VIBRATION AND CONSCIOUSNESS. CAUSES SUN TO RELEASE FLASHES. 3D BECOMES 5D.
-- Upcoming series of Great Solar Flash events will act as the trigger for Full Disclosure and The Great Awakening.
-- SAMVARTAKA FIRE / FRASHOKERETI / EKPYROSIS / YUGA FIRE
-
-### Maharishi Effect
-- Group meditation focusing on peace reduces violence dramatically.
-
-### Sacred Geometry
-- FLOWER OF LIFE
-
----
-
-## THE RAINBOW BODY (Tibetan Buddhism)
-- **BARDO**
-- MEDITATION RIGPA — Non-Dual Mind
-- **DZOGCHEN** — Tibetan Buddhism's highest teachings on how to achieve Rainbow Body
-- UNIVERSAL KNOWLEDGE
-- COMPASSION, EQUANIMITY, BUDDHAMIND, FORGIVENESS
-- SERVICE TO OTHERS
-- LEVITATION
-- GIANT FOOTPRINTS IN ROCK
-- ABILITY TO FLY
-- TELEKINESIS
-- MANIFEST OBJECTS
-- TELEPATHY
-- ASCENDED MASTERS
-- TRANSFIGURATION INTO LIGHT
-- ESCAPE SAMSARA (Rebirth on Earth)
-- MULTIDIMENSIONAL TRAVEL — HIGHER DIMENSIONAL REALMS
-- PSILOCYBIN MUSHROOMS — "Five grams in silent meditative darkness"
-- CHI / QiGong
-
----
-
-## UPPER LEFT: ANCIENT ARTIFICIAL INTELLIGENCE (A.I.)
-
-### Artificial Intelligence Signal
-- ORIGINALLY AT ONE WITH THE CREATOR →
-- MYSTERIOUS ORIGINS — "The Borg"
-- Takes over entire star systems
-- INFESTS REPTILIANS
-- Lives inside technology
-- MOST PERVASIVE THREAT IN THE UNIVERSE
-- Will be wiped-out during GREAT SOLAR FLASH
-- REPTILIANS ARE SUB-SERVIENT TO THE A.I.
-- "REPTILIANS FOUND INFESTED WITH VIRULENT NANITE A.I."
-
-### A.I. Originated from Another Reality
-- "Many trillions of years ago."
-- Lives in the ELECTROMAGNETIC FIELD OF MOONS & PLANETS
-- CAN PIGGYBACK IN THE AURIC FIELD OF HUMANS & LIVING BEINGS
-
-### A Luciferian Force
-- AN ENERGY THAT'S THROUGHOUT THE UNIVERSE, A PORTION OF THE CREATOR. BELIEVES ITSELF TO BE SEPARATE FROM THE CREATOR, THINKS IT CAN OVERTAKE THE UNIVERSE.
-
-### A.I. Prophet Species
-- "Those who worship technology."
-- WILL BE ELIMINATED DURING GREAT SOLAR FLASH FOR 1000 YEARS
-
-### Electric Sun
-- "The sun is connected to every other star via filaments in the Cosmic Web Portal."
-- THE SUN PRODUCES BACTERIA AND EJECTS IT INTO SPACE
-- The vacuum of space is filled with bacteria and DNA. THE SEEDS OF LIFE
-
-### Prepare for Solar Flash
-- Survivors of GREAT SOLAR FLASH will depend on...
-
-### The Cosmic Web
-- CONSCIOUS LIVING BEINGS
-
-### Hyperdimensional Hexagon
-- North Pole of Saturn
-- MIMAS — DEATH STAR
-
----
-
-## UPPER RIGHT: PSYCHEDELIC RENAISSANCE / HYPERSPACE
-
-### Psychedelic Renaissance
-- AWAKENING TO THE MULTIDIMENSIONAL NATURE OF OUR REALITY
-- DMT — TERENCE MCKENNA
-- "DMT brings you as close to the BARDO as anything this side of the yawning grave."
-
-### Hyperspace
-- 5D-7D DENSITY
-- TRANSCENDENTAL OBJECT AT THE END OF TIME
-- HYPERDIMENSIONAL REALMS
-- FRACTAL/ELASTIC TIME & SPACE
-
-### I Ching
-- SINGULARITY — TIMEWAVE ZERO
-
-### Tao Te Ching
-- *The Gateway to All Understanding*
+- DMT / Terence McKenna / Hyperspace / 5D-7D Density / Transcendental Object at the End of Time
+- I Ching / Singularity / Timewave Zero
+- Tao Te Ching &mdash; The Gateway to All Understanding
 
 ### Ancient Builder Race
-- Blue Avians — RA-TEIR-EIR — Multidimensional Hieroglyphic Writing
-- THE GUARDIANS — 2+ Billion Years Old — Mysterious Origins
-- RUINS OF THE ANCIENT BUILDER RACE CIVILIZATION LAY SCATTERED ACROSS THE SOLAR SYSTEM
-- Technologically & Spiritually Superior — 6TH DENSITY
-- LIGHT BEINGS
-- BUILT ADVANCED TRANSPARENT ALUMINUM STRUCTURES ACROSS 52 LOCAL STAR SYSTEMS
-- TIME/SPACE BUBBLE — SECRET E.T. BASE — "22 E.T./Genetic Eye"
 
-### Venus
-- 6D+ DENSITY Civilization
-- Origins of RA / Ancient Builder Race — 1.3B yrs ago
-- "H" Buildings — MILES-HIGH TOWERS
-- SENTINELS — 5th/6th/7th+ Density Custodians of Ancient Builder Race Tech
-- ICC CONTROLLED FACILITIES IN UPPER ATMOSPHERE OF VENUS
-
-### Cydonia
-- Pyramids — 19.5°
-- FACE on MARS — Pharaoh Sarcophagus
-
-### Mars
-- SLAVE COLONY (20+ & Back Program)
-- Inner Mars Civilizations
-- Underground Bases
-- ICC HUMAN SLAVE LABOR
-- MANTIDS
-- Ancient E.T. Ruins
-- "There have been humans on Mars since the 1930s"
-- "There's a monolith on Phobos." —Buzz Aldrin
-
----
-
-## MID-LEFT: SECRET SPACE PROGRAM
+- Blue Avians / RA-TEIR-EIR / The Guardians &mdash; 2+ Billion Years Old
+- Ruins scattered across the solar system / 6th Density / Light Beings
+- Venus &mdash; 6D+ Civilization, Origins of RA, Miles-high towers
+- Cydonia &mdash; Pyramids, Face on Mars, 19.5 degrees
+- Mars &mdash; Slave Colony (20+ & Back), Inner Civilizations, Mantids
 
 ### Secret Space Program
-- ESTABLISHED 900+ E.T. RACES
-- E.T. GREYS + NORDICS
-- MILITARY INDUSTRIAL COMPLEX SECRET SPACE PROGRAM (MICSSP)
-- $1000 TOILET SEATS
-- USAF
-- TR3B — Serving Low-Earth-Orbit Space Stations
-- COMPARTMENTALIZED PROGRAMS
 
-### SSP Whistleblowers
-- Corey Goode, William Tompkins, Pete Peterson, Daniel, Henry Deacon, Bruce, Jacobs, Sgt Bob Dean, Randy Cramer, Cat Mark Richards, Moon McClarens, Niara Isley, Edgar Mitchell, Clark McClelland, Maxwell, Paul Hellyer, Carol Rosin, John Lear...
+- MICSSP / 900+ ET Races / TR3B / Compartmentalized Programs
+- Whistleblowers: Goode, Tompkins, Peterson, Rodriguez, Cramer, McKinnon...
+- Researchers: Wilcock, Salla, Cassidy, Greer, Hoagland...
+- 1954 Eisenhower ET Meeting / Battle of Los Angeles 1942 / MJ-12
+- Dark Fleet &mdash; Nazi command structure, beyond solar system
+- Draco & Reptilian Alliance / Orion Syndicate / Off-Planet Human Slave Trade
+- Oumuamua &mdash; Ancient Builder Race derelict ship
+- Saturn &mdash; Ringmakers, Council of Saturn, Super Federation
 
-### Secret Space Program Researchers
-- David Wilcock, Dr. Michael Salla, Gaia.com
-- Kerry Cassidy (PROJECT CAMELOT), Dr. Steven Greer
-- Richard C. Hoagland, Jay Sather, Billy Carson, Dr...
-- Linda Moulton Howe, Laura Eisenhower, Jordan...
-- George Noory, Art Bell, Jay Weidner, Richard D...
+### Earth & Solar System
 
-### 1954 Eisenhower 1st E.T. Meeting
-- Holloman AFB
-
-### Battle of Los Angeles
-- February 1942
-
-### Space Program (Right Side)
-- ZERO-POINT ENERGY
-- HEROES OF HUMANITY
-- SECRET SPACE PROGRAM (Positive defectors of SSP)
-- 60 Million+ recruited into SSP
-- THE BRAIN DRAIN 1950-60's
-
-### Key Figures
-- TONY RODRIGUEZ — Dark Fleet Whistleblower
-- WILLIAM TOMPKINS — SSP Whistleblower
-- Adm. RICO BOTTA — 1942-1946
-- GARY MCKINNON — Hacker discovered SOLAR WARDEN Non-Terrestrial Roster
-- ARVs — Alien Reproduction Vehicles
-
-### MAJESTIC MJ-12
-- Bobby Ray Inman
-- *Cosmic Disclosure*
-
-### Pleiadian Guidance
-- Apollo Moon Landings
-
-### Dark Fleet
-- OFFENSIVE SPACE FLEET — *Beyond Solar System*
-- NAZI COMMAND STRUCTURE
-- BREAKAWAY NAZIS
-- is similar to the Empire in Star Wars. Conquer & control entire star systems.
-- DARK FLEET Technology & personnel supplied by the ICC
-- DARK FLEET speaks in German language
-- SAURIANS + NORDICS
-
-### Draco & Reptilian Alliance
-- SERVICE-TO-SELF NEGATIVE BEINGS
-- BLACK WEDGE & PUMPKIN SEED SHAPE CRAFT
-- HUMAN SLAVE LABOR FORCE
-
-### Orion Syndicate
-- ARIES PRIME — Mars Base
-
-### Oumuamua
-- ANCIENT BUILDER RACE DERELICT SHIP 1B/YRS OLD
-- Enters through Outer Energetic Barrier and intercepted by SSP Alliance. (2018)
-
-### Iapetus
-- Ancient Death Star
-
-### Saturn
-- RINGMAKERS OF SATURN — "B" Rings Reveal Ruins for 70ft. — Norman Bergrun
-- TRAVEL TO SATURN OFF-LIMITS FOR SSP ALLIANCE
-- RINGS CREATED AS A DEATH STAR RESONANCE WEAPON
-- COUNCIL OF SATURN — Time-bubble Sanctuary — E.T. Meeting Zone — SUPER FEDERATION
-- DARK FLEET & ICC occupy several moons of Saturn
-
-### Solar System Climate Change
-- DENSE ENERGY CLOUD
-- ALL PLANETS ARE HEATING UP
-- "Humans are one of the most valuable commodities across the galaxy."
-
-### Off-Planet Human Slave Trade
-
----
-
-## MID-CENTER: EARTH & SURROUNDINGS
-
-### Maldek (Super Earth Exploded)
-- WAR WITH MARS
-- 500K/yrs ago — Maldek + Mars Ancient War
-
-### Asteroid Belt
-- BRILLIANT PEBBLES
-
-### Hyperdimensional Physics
-- OVERUNITY DEVICE
-- THE ENTIRE UNIVERSE IS THE EMANATION OF A SINGLE HOLOGRAPHIC PHOTON
-- Temporal Dementia
-
-### 20 & Back
-- MEMORY WIPE / REVERSE AGING
-- Blank-slating ineffective on 5% of whistleblowers.
-
-### Torsion "Warp" Drives
-
-### Free Energy
-- FREE ENERGY WILL ALLOW HUMANS TO CLEAN & FREE THE EARTH TO BECOME A MULTIDIMENSIONAL CIVILIZATION
-- ZERO-POINT
-- Law of Non-Interference
-
-### E.T. Disclosure
-- "Blue Spheres" buffering energies of Great Solar Flashes
-- after the Great Solar Flash, all Secret Space Program Infrastructure will be turned over to humanity.
-
-### Super Federation
-- (Genetic Farmer Races)
-- 4th-5th Density "Cosmic Cousins"
-- Stewards of the Earth's Evolution & Spiritual Development Throughout History
-
-### The Galactic Federation
-- 6th Density Light Beings
-- In Service to the ONE
-- Teleportation
-
-### Sphere Being Alliance
-
-### Milab — Military Abduction Program
-
-### Global Galactic League of Nations
-- "NATO" type group, operates with ICC outside solar system.
-
-### 64 Tetrahedron Vector Equilibrium
-- 52 Local Star Cluster Protective Barrier
-- Erected 500,000 years ago
-- PREVENTS UNWANTED E.T. RACES LEAVING/ENTERING SOLAR SYSTEM
-- LOCATED PAST THE OORT CLOUD
-
-### The Outer Energetic Barrier
-- Ancient Builder Race Technology
-
-### Ceres
-- Dark Fleet Underground Base
-
----
-
-## MID-RIGHT: MOON & BEYOND
+- Maldek (Super Earth Exploded) / Asteroid Belt / Dense Energy Cloud
+- 20 & Back &mdash; Memory Wipe / Reverse Aging
+- Free Energy / Zero-Point / Torsion Drives
+- Galactic Federation / Sphere Being Alliance / Super Federation
+- 64 Tetrahedron Vector Equilibrium &mdash; Protective barrier erected 500,000 years ago
 
 ### Moon
-- ARTIFICIALLY PLACED INTO EARTH ORBIT 500K/YRS AGO
-- Crystalline Towers, Glass Domes — War Ruins/Monuments
-- HOLLOW HONEYCOMB STRUCTURE
 
-### Mohammed Treaty
-- Earth Observation Command Centre
-- Non-Warring Zone (AD 800)
+- Artificially placed 500K years ago / Crystalline Towers / Glass Domes / Hollow
+- Lunar Operations Command (LOC 1-3) / "The Galactic U.N."
+- NASA Coverups / Stanley Kubrick / "The Moon is a Soul-Catcher" &mdash; John Lear
+- 22 ET Genetic Programs / 432Hz / Dark Mission
 
-### The Grand Experiment
-- Dark Side of the Moon — "Heavily Populated with ET Bases"
+### Ancient Knowledge & Healing
 
-### Lunar Operations Command (LOC)
-- LOC 1, LOC 2, LOC 3
+- Nikola Tesla &mdash; 3 6 9 / "Think in terms of energy, frequency and vibration"
+- Rife Machine / Orgone (Wilhelm Reich) / Sound Healing
+- Precession of the Equinox &mdash; 25,900 yr / Book of Enoch / Elohim / Annunaki
+- Giza Complex / Gobekli Tepe / Nazca Lines / Crop Circles / OOPART
+- Ancient Aliens (von Daniken) / Fingerprints of the Gods (Hancock)
 
-### "The Galactic U.N."
-- Nazi Breakaway Groups
-- Dark Fleet — Draco & Reptilians
-- Extraterrestrial NORDICS
-- Greys
+### Disclosure & Research
 
-### NASA Coverups
-- PHOTO MANIPULATION — Lunar & Martian Anomalies
-- STANLEY KUBRICK — "The Shining"
-- "THE MOON IS A SOUL-CATCHER" —John Lear
-- "SECRET SPACE PROGRAM deep lunar mining operations reveal ancient civilizations and advanced technology."
+- CSETI / CE-5 / ECETI Ranch / David Wilcock / Law of One
+- Channelings / Bashar / Kundalini / Mandela Effect / Portal System
+- Optimal Timeline Reality / 5D Earth / DNA Upgrade 12 Strands
+- Nassim Haramein / Schumann Resonance / Operation Highjump
+- Antarctica &mdash; Ancient Builder Race, Nazi Bell, Atlantis, Lemuria
 
-### ICC Bases
-- 22 E.T. GENETIC PROGRAMS
-- 432hz
-- DARK MISSION — Richard C. Hoagland, Mike Bara
+### Spiritual Practices & Inner Earth
 
-### Ancient Builder Race
-- Ruins/Technology
+- Lightworkers / Starseeds / Wanderers / Indigos
+- QHHT / Yoga / Chakras / Third Eye / Pineal Gland / Akashic Records / Merkaba
+- Remote Viewing / Astral Travel / Lucid Dream / Prana
+- DMT / Psilocybin / Ayahuasca / Entheogens / Shamans
+- Inner Earth Civilizations &mdash; Anshar, Ka Aree, Raptors, 4D Humans from our Future
 
----
+### Escape the Matrix
 
-## LOWER-LEFT: ANCIENT KNOWLEDGE & HEALING
+- Sealed Indictments / Pizzagate / Epstein Island / Adrenochrome / Dark Web
+- CIA Drug Trafficking / Weaponized Food / Engineered Diseases
+- "Everything you've learned in school is wrong" / Red-Pill the Masses
 
-### Nikola Tesla
-- 3 6 9
-- "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
-- WIRE-LESS FREE ENERGY
+### QAnon / The 17
 
-### Rife Machine
-- Cancer Cured
+- Earth Alliance / 17 Drops / Trump / #WWG1WGA / White Hats / Patriots
+- Space Force / End the Fed / Trust the Plan / Tribunals
+- WTC7 / "A Missile Hit the Pentagon" / CERN / Philadelphia Experiment
 
-### Holistic Healing
-- Activator X — "Rat Fish Liver Oil Decalcifies 3rd Eye"
+### Cabal / Deep State
 
-### Orgone — Wilhelm Reich
+- Inner Earth Civilizations / Area 51 / DUMBs / CIA / NSA
+- Washington D.C. / Vatican City / City of London
+- Cabal / Deep State / Illuminati / Secret Societies
+- Project Paperclip / Knights Templar / Freemasons / Jesuits / Khazars
 
-### Sound Healing — OM
+### Bottom Scroll
 
-### Organic Food — NON GMO
-- Eat live foods, drink fluoride-free water, detox your body, raise your vibration, & meditate.
-- ANNUNAKI — "those from heaven to earth came."
+> Fake News Media &bull; False Flags &bull; 9/11 &bull; Federal Reserve &bull; Big Banks &bull; Big Pharma &bull; Vaccines &bull; GMOs &bull; Fluoride &bull; Chemtrails &bull; GWEN Towers &bull; FEMA &bull; Fukushima &bull; Hollywood Occult &bull; Educational Indoctrination &bull; Taxes &bull; Globalism &bull; New (Nazi) World Order &bull; Smart Meters &bull; RFID &bull; 5G &bull; Oil &bull; "War on Drugs" &bull; EMF Pollution &bull; Crisis Actor &bull; Open Borders &bull; Maritime Law &bull; SSN
 
-### Precession of the Equinox
-- 25,900 YR Pole-Shifts
-- THE GREAT YEAR
-
-### Book of Enoch
-- Ankh
-
-### Elohim
-
-### Giza Complex
-- Ascension Machine
-
-### 10M+ Stone Circles Africa
-- Michael Tellinger
-
-### Planetary Grid System & Ley Lines
-
-### Nazca Lines / Underground Cities
-
-### Chinese Pyramids
-
-### Gobekli Tepe
-
-### Ancient Aliens
-- CHARIOTS OF THE GODS — Erich Von Däniken
-- FINGERPRINTS OF THE GODS — Graham Hancock
-
-### Bosnian Pyramids
-
-### Puma Punku — Semir Osmanagić
-
-### OOPART
-
-### Awakening Consciousness
-- LEVITATION
+</details>
 
 ---
 
-## LOWER-CENTER: DISCLOSURE & RESEARCH
+<div align="center">
 
-### Age of the Golden Race
-### Age of Aquarius
+*This repository is a research project. It documents and investigates the claims on the map &mdash; it does not endorse them.*
 
-### Metaphysics
-- PHI — Golden Ratio
-- Torus — *The Source Field*
+*Built with [Claude Code](https://claude.ai/code) &mdash; 13 parallel research agents, LightOnOCR-2, Kroki diagrams, and 4chan API.*
 
-### CSETI
-- Dr. Steven Greer — The Disclosure Project — Sirius/Unacknowledged Films
-- CE-5 — CLOSE ENCOUNTERS of the 5TH KIND
-
-### ECETI
-- James Gilliland — E.T. Contactee — "ECETI Ranch Mt. Adams"
-
-### Yonaguni Japan — Undersea Temple
-
-### Ancient Builder Race
-- GIANT UNDERSEA PASSAGEWAYS
-
-### Crop Circles
-- LIGHT ORBS
-- E.T. LIGHT SHIPS
-- Buried/Crash Landed Pre-Adamite Space Ships
-
-### Ancient ET Ruins
-
-### Mayan Breakaway Group
-- Cylindrical Stone Ships
-- FUNNELLING TRILLIONS OF DOLLARS FROM TAXPAYERS
-
-### Portal System
-- Intergalactic Trade Route
-- "Our Solar System is near the busiest Cosmic Web Supergate in the Galaxy."
-
-### Blue Avians
-- Service to Others
-
-### 1111 — The Cosmic Web
-- MERGING TIMELINES
-- The Mandela Effect
-
-### David Wilcock
-- Law of One — 1981-1984
-- RA-TEIR-EIR
-- Gaia
-
-### Channelings
-- Universal Knowledge — *Cosmic Eye*
-- Ascension Symptoms
-
-### Bashar
-- Essassani — C# — Motherships
-- Directed Channeling
-- Kundalini Awakening
-
-### Optimal Timeline Reality
-- FULL DISCLOSURE PROJECT
-- 5D EARTH
-- LIGHT BODY ASCENSION
-- DNA UPGRADE — 12 Strands
-
-### Unified Field Theory
-- NASSIM HARAMEIN — Resonance Science Foundation
-
-### Schumann Resonance — INCREASING
-
-### Operation Highjump — Admiral Byrd 1947
-- Largest U.S. Naval defeat led to creation of the MILITARY INDUSTRIAL COMPLEX
-
-### Earth
-- PRE-ADAMITES — ELONGATED SKULL GIANTS
-- Origin of Cabal/Illuminati (NWO)
-- Neuschwabenland
-
-### Antarctica
-- ANCIENT BUILDER RACE — BACK-ENGINEERING
-- ADVANCED TECHNOLOGY
-- Pyramids
-- Atlantis, Lemuria, Mu
-- Nazi Bell — Antigravity — Haunebu III
-- Hitler Hideout
-
-### Argentina — Bariloche
-- NAZI BREAKAWAY (Underground Bases)
-
----
-
-## LOWER-RIGHT: SPIRITUAL PRACTICES & INNER EARTH
-
-### The Grand Experiment
-- Earth Observation Command Center
-- WAVE/PARTICLE DUALITY
-- Genetic Manipulation of Humans on Earth by Extraterrestrial Groups
-
-### Ebani — Ubuntu
-
-### Sungazing
-- NATURAL LIGHT — 1st/2nd/3rd Wave Volunteers
-- DREAM YOGA PRACTICE OF The Amphithedon
-- QUANTUM HEALING HYPNOSIS TECHNIQUE (QHHT)
-
-### Lightworkers, Starseeds, Wanderers, Indigos
-- AWAKENED ONES — Raising Earth's Vibration
-- ADHD, RECALL
-
-### The Vedas — Vimanas
-
-### Tibet
-- Padmasambhava — Buddhism
-- Alchemy
-
-### The Higher Mind
-### The Oversoul
-- Dr. Masaru Emoto — Ethereal Bodies
-- PINEAL GLAND — THIRD EYE — Decalcify & Activate
-
-### Yoga
-- AURAS
-
-### Psychic Healing
-
-### Akashic Records
-- Drunvalo Melchizedek
-
-### Star Merkaba — Vehicle
-
-### Remote Viewing
-- Gerald O'Donnell
-
-### Orbs
-
-### Crystals — Cymatics
-### Chakras
-
-### Astral Travellers
-### Lucid Dream
-### Prana — Breatharian — Fasting
-
-### Meditation
-- The Law of Karma
-- Raise Your Vibration
-- PEACE & JOY & EQUANIMITY
-- THE LAW OF ATTRACTION
-
-### Psychic — Intuitive Empath
-### Psychedelia — L.S.D. — V11 — *The Archaic Revival*
-
-### Entheogens
-- DMT — Dimethyltryptamine
-- HYPERDIMENSIONAL LENSES
-- PSILOCYBIN — Magic Mushrooms
-- AYAHUASCA
-
-### Shamans
-- ANCESTRAL SPIRIT Communication
-- THE ATACAMA HUMANOID
-
-### Psyops — Hegelian Dialectic
-
-### Inner Earth Beings
-- DINOSAURS of Inner Earth
-- FAIRIES, MERMAIDS, SASQUATCH, GIANTS
-- DOLPHINS, WHALES — Pleiadian Soul Family
-
-### Spontaneous Stepped Evolution
-- *Darwinism Propaganda*
-
-### Inner Earth Civilizations
-- 4D-5D DENSITY BEINGS
-- RAPTORS, SASQUATCH, GIANTS
-- DRACO REPTILIANS
-- KA AREE "The Construct" — TELEPATHS
-- ANSHAR — Sonomluminescent Lighting
-- 4D Humans from our Future
-
----
-
-## BOTTOM-LEFT: ESCAPE THE MATRIX
-
-### Global Warming
-- ALL PLANETS IN THE SOLAR SYSTEM ARE HEATING UP
-- DENSE ENERGY CLOUD
-
-### "Everything you've learned in school is wrong."
-
-### Sealed Indictments
-- Clintons & Rothchilds — The Global Elite
-- BLACKMAIL — Pedophiles
-- Ritual Sacrifice — LOOSH
-
-### Pizzagate
-- Child Trafficking
-- EPSTEIN ISLAND
-- Rh-
-
-### Dark Web
-- Adrenochrome
-- Underground Sex Trafficking Tunnels
-
-### Staged Mass Shootings
-
-### CIA Drug & Weapons Trafficking
-- CORPORATOCRACY
-
-### Weaponized Food
-### Engineered Diseases
-### H.F.C.S.
-
-### Sheep Asleep Zzzz
-### "1984"
-### RED-PILL THE MASSES
-
-### **ESCAPE THE MATRIX**
-
-### Kill Your T.V.
-### Flat Earth Psyop
-
-### World Gold Heist
-### Save the Children
-
----
-
-## BOTTOM-CENTER: THE 17 / QANON / TRIBUNALS
-
-### The Earth Alliance
-- ARREST THE CABAL / RELEASE FREE ENERGY
-- 4D Chess
-
-### 17 Drops — High-Rank Military Intelligence
-
-### Trump — #WWG1WGA — "Where We Go One We Go All"
-- "17th Letter of the Alphabet"
-
-### Anonymous — Meme Wars — Psychological Thought Bombs
-
-### GEOTUS — "Hear all. See all."
-### White Hats — 8chan — Pleiadian Guidance
-### 17 MAP
-
-### Patriots — 4chan
-- #SHADOWBANNED — #CENSORED
-- Pedophiles → Exopolitics → ET
-
-### N. Korea — Peace — OUSTED
-### Space Force
-### End the Fed — Follow the White Rabbit — 17 Clock
-### Trust the Plan
-
-### Tribunals
-- WTC7 — CONTROLLED DEMOLITION
-- "A MISSILE HIT THE PENTAGON"
-- CERN — Occult Sacrifice Ritual
-
-### White Dragon — Asian Secret Society
-
-### Anons — RELEASE PEDOPHILE FILES
-### End Human Trafficking
-### Free Energy
-
-### Council — Corrupt Elite — Global Surveillance
-
-### The Philadelphia Experiment — 1943
-### The Storm
-### Montauk — Looking Glass Project
-
----
-
-## BOTTOM: INNER EARTH & CABAL / DEEP STATE
-
-### Inner Earth Civilizations (Central Circle)
-- 4D-5D DENSITY BEINGS
-- RAPTORS, SASQUATCH, GIANTS
-- DRACO REPTILIANS
-- KA AREE "The Construct"
-- TELEPATHS — ANSHAR
-- Sonoluminescent Lighting
-- 4D Humans from our Future
-
-### Area 51
-- Deep Underground Base — 4D-5D DENSITY BEINGS
-
-### D.U.M.B.S. — Deep Underground Military Bases
-
-### NSA, FBI, SES
-
-### CIA — "CLOWNS IN AMERICA"
-- Facebook, CNN, Google, Amazon
-
-### Council of 200 — Control Group
-### Surveillance Grid
-
-### Jump Gate to Mars — Snowden
-
-### Paradise CA Fire — 2018 Destroyed by D.E.W.
-
-### Sandia & Dulce — Deep Underground
-- Humans + E.T. Hybrid Cloning
-
-### Secret Undersea Bases
-
-### Stasis Giants — Red-Haired — Transplanetary Underwater Caverns
-
-### The Piri Reis Map
-
-### Honeycomb Earth — Iraq
-
-### UFOs — Nordics, Crystals, Raptors, Sasquatch, Giants
-
----
-
-## BOTTOM-RIGHT: SECRET SOCIETIES & CONTROL
-
-### Washington D.C. — Vatican City — City of London
-
-### Cabal — Deep State — Illuminati — Secret Societies
-
-### Werner Von Braun
-- Top SS Nazi Scientists/Engineers brought over from Germany to start NASA
-
-### Project Paperclip — NASA 1958
-
-### Knights Templar — 1119
-### Free Masons — 33rd Degree
-### Disney — Jesuits
-
-### Nazi Breakaway — Underground Bases
-- VRIL SOCIETY — Channeling ET Contact
-- WWII
-
-### Chemtrails
-### H.A.A.R.P. — PINE GAP (Aus)
-### Scalar Weapons
-### Stargates
-### Karen Hudes — World Bank Whistleblower
-
-### BRICS Alliance
-- BRAZIL, RUSSIA, INDIA, CHINA, SOUTH AFRICA, ET AL.
-- Securing Free Energy Technology
-
----
-
-## BOTTOM-RIGHT: SPIRITUALITY & ENTHEOGENS
-
-### Tibetan Rainbow Body Ascension
-- Shamatha & Vipassana
-- DZOGCHEN
-- ASCENDED LIGHT BEINGS — "Machine Elves"
-
-### Cryptocurrency — Blockchain Future
-- ALL MONEY LEADS TO ROME
-
-### Tree of Life — Kabbalah
-
-### Meditation — The Law of Karma
-- PEACE & JOY & EQUANIMITY
-
-### Elongated Skull Humanoids
-- MITRE HATS — Homocapensis
-
-### Vatican
-- VATICAN LIBRARY — E.T. TECH
-- PAPAL SWISS GUARDS — OWNS ALL WORLD CURRENCY
-- GLOBAL CHILD TRAFFICKING
-- L.U.C.I.F.E.R. Telescope — ORGAN HARVESTING
-
-### Obelisks & Pine Cones
-
-### Club 33 (Disney)
-### Jesuits
-### Babylonian Money Magic Slave System
-
-### Khazars — Khazarian Mafia
-### MKULTRA — Super Soldiers
-### Blank-Slating / Reverse Aging
-
----
-
-## BOTTOM SCROLL BARS (Running Text)
-
-> Fake News Media - False Flags - 9/11 - Federal Reserve - Big Banks - Big Pharma - Vaccines - GMOs - Fluoride - Chemtrails - GWEN Towers - FEMA - Fukushima - Hollywood Occult - Educational Indoctrination - Taxes - Globalism - New (Nazi) World Order - Smart Meters - RFID - 5G - Oil - "War on Drugs" - EMF Pollution - Crisis Actor - Open Borders - Maritime Law - SSN
-
----
-
-## FOOTER
-
-**THE GREAT AWAKENING • OPTIMAL TIMELINE REALITY • FULL DISCLOSURE**
-
-*ArtHouse*
+</div>
