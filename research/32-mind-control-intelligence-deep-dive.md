@@ -119,6 +119,8 @@ The first group of German scientists arrived at **Fort Bliss** in El Paso, Texas
 
 ## 4. COINTELPRO -- The FBI's War on Dissent
 
+![FBI COINTELPRO document](https://upload.wikimedia.org/wikipedia/commons/6/6e/Cointelpro.jpg)
+
 ### Scope and Target Groups
 
 COINTELPRO (an acronym for **Counter Intelligence Program**) was a series of covert and illegal operations conducted by the FBI from 1956 to 1971 under the direct authority of Director **J. Edgar Hoover**. The program's targets were vast: it initially focused on the **Communist Party USA** (1956), then expanded to encompass the **Socialist Workers Party**, **Black nationalist groups** including the Nation of Islam and the **Black Panther Party**, the **Southern Christian Leadership Conference**, the **American Indian Movement (AIM)**, **Students for a Democratic Society (SDS)**, anti-Vietnam War organizers, **Puerto Rican independence movements**, the **Chicano movement**, **feminist organizations**, environmentalist and animal rights groups, and the **New Left** broadly. Hoover designated Martin Luther King Jr. as "the most dangerous Negro in America" and the Black Panther Party as "the greatest threat to the internal security of the country." The FBI's methods included warrantless wiretapping, infiltration by paid informants and provocateurs, forged correspondence designed to create internal paranoia and factional infighting, planting false media stories, tax audits, and what the bureau euphemistically called "neutralization" of targets -- which in practice ranged from career destruction to facilitated assassination.
@@ -226,6 +228,8 @@ In the **2003 documentary *The Fog of War***, former Secretary of Defense Robert
 
 ## 7. Operation Northwoods -- The Pentagon's False Flag Blueprint
 
+![Operation Northwoods declassified document (page 1)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Northwoods_document.jpg)
+
 ### The Document and Its Authors
 
 Operation Northwoods was a **1962 proposal** originating within the U.S. Department of Defense and the Joint Chiefs of Staff for a series of false flag operations intended to provide justification for a military invasion of Cuba. The document, titled "Justification for U.S. Military Intervention in Cuba," was presented to Secretary of Defense **Robert McNamara** on **March 13, 1962**, as a "preliminary submission for planning purposes." The proposal was endorsed by the Joint Chiefs of Staff, with **General Lyman L. Lemnitzer**, Chairman of the Joint Chiefs, serving as the primary signatory. The document was drafted during the height of Cold War tensions following the failed Bay of Pigs invasion and reflected the intense desire within the military establishment to remove Fidel Castro's government by any means necessary. The full text of the memorandum runs to 15 pages and contains some of the most extraordinary proposals ever committed to paper by senior American military officials.
@@ -287,6 +291,8 @@ In **1996**, *San Jose Mercury News* reporter **Gary Webb** published a three-pa
 ---
 
 ## 9. Tuskegee Syphilis Study -- 40 Years of Medical Betrayal
+
+![Tuskegee Syphilis Study subjects](https://upload.wikimedia.org/wikipedia/commons/5/58/Tuskegee-syphilis-study_doctor-injecting-subject.jpg)
 
 ### Origins and Design (1932)
 

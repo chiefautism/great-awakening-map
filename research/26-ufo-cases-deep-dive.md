@@ -48,6 +48,8 @@ Sources:
 
 ## 3. Nimitz/Tic Tac 2004 -- The Encounter That Changed Everything
 
+![USS Nimitz (CVN-68)](https://upload.wikimedia.org/wikipedia/commons/5/55/USS_Nimitz_%28CVN-68%29.jpg)
+
 On November 14, 2004, the USS Nimitz Carrier Strike Group, including the nuclear-powered carrier and the Ticonderoga-class guided-missile cruiser USS Princeton, was conducting pre-deployment exercises approximately 100 miles southwest of San Diego, California. For the preceding two weeks, radar operators aboard the Princeton had been tracking anomalous aerial contacts that appeared to descend from above 80,000 feet to near sea level in a matter of seconds -- behavior far beyond any known aircraft capability. Senior Chief Operations Specialist Kevin Day was among those tracking these contacts, later describing how the returns were verified against the ship's SPY-1B radar to rule out clutter or malfunction, and how the objects appeared to travel in groups of five to ten, following a roughly southward trajectory from the vicinity of Catalina Island.
 
 Commander David Fravor, a veteran Navy F/A-18F Super Hornet pilot and commanding officer of VFA-41 (the "Black Aces"), was vectored to investigate one of the contacts along with his wingman, Lieutenant Commander Alex Dietrich. At the intercept point, Fravor observed a disturbance on the ocean surface -- a churning, cross-shaped area of whitewater -- and above it, a smooth, white, elongated object roughly 40 feet long with no wings, no exhaust, no visible propulsion, and no flight control surfaces. Fravor described the object as resembling a Tic Tac mint. As he spiraled down toward it, the object ascended, mirroring his trajectory, then accelerated away and vanished from visual sight in approximately two seconds. The USS Princeton's radar reacquired the object moments later at Fravor's pre-designated Combat Air Patrol (CAP) point, some 60 miles away -- meaning it had traveled that distance in under a minute.
@@ -89,6 +91,8 @@ Sources:
 ---
 
 ## 5. Travis Walton 1975 -- The Five-Day Disappearance
+
+![Fire in the Sky movie poster](https://upload.wikimedia.org/wikipedia/en/6/61/Fireinthesky.jpg)
 
 On the evening of November 5, 1975, a seven-man logging crew led by foreman Mike Rogers was driving back from a day of work in the Apache-Sitgreaves National Forests near Heber, Arizona, when Rogers stopped the truck after the crew spotted a bright light among the trees. Travis Walton, a 22-year-old crew member, exited the vehicle and walked toward the light source, which he described as a glowing, disc-shaped craft hovering above a clearing. According to the six remaining crew members, a beam of blue-green light struck Walton, lifting him off the ground and throwing him backward. The terrified crew fled in the truck, believing Walton had been killed, but returned shortly after to find no trace of either Walton or the craft. Walton was reported missing, and an extensive search involving ground teams and helicopters over the next five days yielded nothing -- leading investigators to initially suspect the crew of foul play and possible murder.
 

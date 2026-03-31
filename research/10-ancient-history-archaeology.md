@@ -305,6 +305,8 @@ Neither the **Japanese Agency for Cultural Affairs** nor the **government of Oki
 
 ## 10. Nazca Lines -- Actual Archaeology + Theories
 
+![Nazca Lines — Hummingbird](https://upload.wikimedia.org/wikipedia/commons/a/a5/Lignes_de_Nazca_D%C3%A9cembre_2006_-_Colibri_2.jpg)
+
 ### What the Map Says
 > Nazca Lines / Underground Cities
 
@@ -494,6 +496,8 @@ In a country still recovering from the 1992--95 war (approximately 100,000 kille
 ---
 
 ## 15. Piri Reis Map -- Actual History + Conspiracy
+
+![Piri Reis map, 1513](https://upload.wikimedia.org/wikipedia/commons/7/70/Piri_reis_world_map_01.jpg)
 
 ### What the Map Says
 > The Piri Reis Map (listed near Inner Earth section)

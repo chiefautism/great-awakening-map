@@ -134,6 +134,8 @@ Conspiracy narratives assert that a massive hidden military base was built in Ne
 
 ## 6. The Nazi Bell (Die Glocke)
 
+![Operation Paperclip scientists at Fort Bliss](https://upload.wikimedia.org/wikipedia/commons/1/1b/Project_Paperclip_Team_at_Fort_Bliss.jpg)
+
 ### Origin of the story
 
 **Die Glocke** ("The Bell") is a purported top-secret Nazi device first described by Polish journalist **Igor Witkowski** in his 2000 book *Prawda o Wunderwaffe* ("The Truth About the Wonder Weapon"). According to Witkowski, in August 1997 an unnamed Polish intelligence contact showed him classified transcripts from Nazi-era documents. Witkowski says he was allowed to transcribe but not copy the documents -- and no independent researcher has ever seen the originals.
@@ -214,6 +216,8 @@ Like Lemuria, the existence of Mu is incompatible with plate tectonics. There is
 ---
 
 ## 9. The Vril Society
+
+![Vril: The Power of the Coming Race — original 1871 cover](https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Coming_Race.jpg)
 
 ### The fiction behind the name
 

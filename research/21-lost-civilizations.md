@@ -142,6 +142,8 @@ Throughout the late 19th and early 20th centuries, American newspapers published
 
 ## 7. Elongated Skulls -- Paracas, Brien Foerster, DNA Results
 
+![Paracas elongated skull](https://upload.wikimedia.org/wikipedia/commons/d/d1/ParacasSkull.jpg)
+
 ### The Paracas Skulls
 
 In 1928, Peruvian archaeologist Julio Tello discovered a massive burial ground on the Paracas Peninsula of Peru containing over 300 elongated skulls, believed to date to roughly 800-100 BC (the Paracas culture). These skulls are dramatically elongated, with some exhibiting cranial volumes estimated at 25% larger and up to 60% heavier than typical human skulls. Cranial deformation -- the deliberate reshaping of the skull during infancy using boards, bindings, or cradle-boarding -- is a well-documented practice in many ancient cultures worldwide, including Mesoamerica, parts of Europe, Africa, and the Pacific Islands. The mainstream archaeological explanation for the Paracas skulls is artificial cranial deformation, a cultural and aesthetic practice. Cranial binding can dramatically alter skull shape but does not increase cranial volume; it redistributes the same volume of bone into a different configuration. Some researchers have noted that a minority of the Paracas skulls (estimated at 5-10%) do not show the telltale flattening marks of cradle-boarding or binding straps, raising questions about whether all the elongation was artificial.
@@ -207,6 +209,8 @@ In December 2000, India's National Institute of Ocean Technology (NIOT) announce
 
 ## 10. Sphinx Water Erosion Hypothesis -- Schoch, West, Dating Controversy
 
+![Great Sphinx showing erosion patterns](https://upload.wikimedia.org/wikipedia/commons/f/f6/Great_Sphinx_of_Giza_-_20080716a.jpg)
+
 ### Origins of the Hypothesis
 
 The Sphinx water erosion hypothesis contends that the Great Sphinx of Giza and the walls of its enclosure show erosion patterns caused by prolonged rainfall, which would imply the monument is thousands of years older than the conventional date of approximately 2500 BC (the reign of Pharaoh Khafre, 4th Dynasty). The idea was first suggested in passing by the French scholar R.A. Schwaller de Lubicz in the 1950s, but it was fully developed by John Anthony West, an American alternative Egyptologist and author of *Serpent in the Sky* (1979). In 1990, West recruited Robert Schoch, a geologist and associate professor at Boston University, to examine the Sphinx enclosure walls firsthand. After their 1990 visit to Egypt, Schoch concurred that the deep, rounded, vertical erosion channels on the Sphinx enclosure walls were consistent with water weathering (specifically rainfall runoff) rather than the wind and sand erosion seen on other Giza structures. He initially dated the Sphinx's construction to before 5000 BC, based on the premise that the last period of significant rainfall in the region ended in the late 4th or early 3rd millennium BC. Schoch later pushed his minimum estimate back to approximately 9700 BC, aligning it with the wetter climate at the end of the last Ice Age.
@@ -251,6 +255,8 @@ Since Schmidt's death, excavations have continued under the German Archaeologica
 ---
 
 ## 12. Derinkuyu / Underground Cities -- Turkey's Subterranean World
+
+![Derinkuyu underground city](https://upload.wikimedia.org/wikipedia/commons/a/a8/Derinkuyu_Underground_City_9843_Nevit_Dilmen.jpg)
 
 ### Overview
 
