@@ -4,6 +4,8 @@
 
 ## 1. Roswell 1947 -- Complete Timeline
 
+![Roswell Daily Record headline](https://upload.wikimedia.org/wikipedia/commons/b/bb/RoswellDailyRecordJuly8%2C1947.jpg)
+
 The Roswell incident began in early July 1947 when ranch foreman William "Mac" Brazel discovered unusual debris scattered across a pasture on the Foster Ranch, approximately 75 miles northwest of Roswell, New Mexico. On July 6-7, Brazel showed pieces of the wreckage to Chaves County Sheriff George Wilcox, who contacted Roswell Army Air Field (RAAF) and spoke with Major Jesse Marcel, the base intelligence officer. Marcel, along with Captain Sheridan Cavitt, was assigned to return with Brazel to the ranch to collect the material. On the way back to the airfield around 1-2 AM, Marcel stopped at his home to show his wife and son the strange debris, which he described as unlike anything he had ever seen -- including metallic fragments, I-beams with indecipherable symbols, and a material that could not be creased or burned. On July 8, 1947, RAAF public information officer Lieutenant Walter Haut issued a press release stating that the military had recovered a "flying disc" near Roswell, a statement that made national headlines and sent the media into a frenzy.
 
 Within hours, the narrative was reversed. Brigadier General Roger Ramey, commander of the Eighth Air Force at Fort Worth Army Airfield, held a press conference that same day announcing the discovered materials belonged to a weather balloon. Jesse Marcel was photographed posing with balloon debris in what many researchers believe was a staged event to discredit his earlier statements. Colonel Marcellus Duffy, who had experience with Project Mogul, identified the debris as balloon equipment but could not disclose details about the classified program. The story faded from public attention for over three decades until nuclear physicist Stanton Friedman interviewed Jesse Marcel in 1978, reigniting interest in the case and launching serious civilian investigation. Friedman co-authored "Crash at Corona" (1992), which compiled extensive witness testimony and argued that the debris was of extraterrestrial origin, fundamentally challenging the government's weather balloon explanation.
@@ -65,6 +67,8 @@ Sources:
 ---
 
 ## 4. Bob Lazar -- The Most Controversial Whistleblower
+
+![Area 51 warning sign](https://upload.wikimedia.org/wikipedia/commons/2/2e/Area51_warning_sign.jpg)
 
 In May 1989, a man named Bob Lazar appeared on Las Vegas television station KLAS in an interview with investigative reporter George Knapp, initially under the pseudonym "Dennis" with his face obscured, claiming he had been employed at a facility called "S-4" located near the Nellis Air Force Base installation known as Area 51 in the Nevada desert. According to Lazar, S-4 was built into the side of a mountain near Papoose Lake, approximately 15 miles south of Area 51's main Groom Lake facility, with a minimal exterior footprint described as a row of nine semicircular hangar doors sculpted into the desert hillside with a sand-like texture designed to blend into the terrain. Lazar claimed that inside these hangars were nine extraterrestrial craft of varying designs, suggesting they came from different origins or time periods -- one resembled a "Jell-O mold" with rippled sides, another looked like a flat disc "like a straw hat," and the one he was assigned to work on he dubbed the "sport model," which was approximately 52 feet in diameter with an interior featuring tiny seats clearly made for beings roughly three feet tall.
 

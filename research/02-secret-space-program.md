@@ -21,6 +21,8 @@ Sources:
 
 ## 2. Solar Warden -- Gary McKinnon Hack
 
+![Gary McKinnon](https://upload.wikimedia.org/wikipedia/commons/3/34/Gary_McKinnon_cropped.jpg)
+
 "Solar Warden" is the alleged name of a classified U.S. space fleet. The name entered public discourse through Gary McKinnon, a Scottish systems administrator who, between February 2001 and March 2002, gained unauthorized access to 97 U.S. military and NASA computer systems from London. U.S. prosecutors called it "the biggest military computer hack of all time."
 
 McKinnon stated his motivation was to find evidence of UFOs, antigravity technology, and suppressed "free energy," inspired by the Disclosure Project's May 2001 press conference. He claimed to have found: (a) a spreadsheet listing "non-terrestrial officers"; (b) logs describing "fleet-to-fleet transfers"; (c) a reference to a program called "Solar Warden." He also described briefly viewing what he called "a silvery, cigar-shaped object with geodesic spheres on either side" in an unprocessed NASA image from Johnson Space Center (Building 8). McKinnon did not claim these were alien entities but suggested the U.S. military operates a secret space battalion.
@@ -215,6 +217,8 @@ Sources:
 ---
 
 ## 13. Battle of Los Angeles (1942)
+
+![Battle of Los Angeles, 1942](https://upload.wikimedia.org/wikipedia/commons/9/91/Battle_of_Los_Angeles_LATimes.jpg)
 
 The "Battle of Los Angeles" refers to a real historical event on the night of February 24-25, 1942, less than three months after Pearl Harbor and one day after the Japanese shelling of Ellwood, near Santa Barbara.
 

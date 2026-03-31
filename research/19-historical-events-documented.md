@@ -4,6 +4,8 @@
 
 ## 1. Roswell 1947
 
+![Roswell Daily Record headline, July 8, 1947](https://upload.wikimedia.org/wikipedia/commons/b/bb/RoswellDailyRecordJuly8%2C1947.jpg)
+
 On July 8, 1947, the public information office at Roswell Army Air Field (RAAF) in New Mexico issued a press release announcing that personnel had recovered a "flying disc" from a ranch near Corona, operated by rancher W.W. "Mac" Brazel. The very next day, the military retracted the claim and stated the debris was merely a conventional weather balloon, displaying wreckage for the press at Fort Worth Army Air Field. Major Jesse Marcel, the intelligence officer who first inspected the debris, publicly accepted the weather balloon explanation at the time, but in a 1978 interview with ufologist Stanton Friedman, Marcel reversed course and claimed the materials were "not of this world" and that the weather balloon story was a cover. Brazel himself was held in military custody for several days after his discovery and later told the press he was "sorry he told about it," with some researchers alleging he was pressured into recanting his original account of unusual materials including metallic foil, rubber strips, and lightweight beams.
 
 The official explanation emerged decades later: a 1994 U.S. Air Force report, prompted by pressure from New Mexico Congressman Steven Schiff, admitted the weather balloon story was itself a cover for **Project Mogul**, a top-secret Cold War program that used high-altitude balloon trains equipped with acoustic sensors to detect Soviet nuclear tests. The Air Force identified the debris as originating from a specific Mogul balloon train (Flight #4) launched on June 4, 1947, from nearby Alamogordo Army Air Field, which was lost within 17 miles of the Brazel ranch. A follow-up 1997 report, *The Roswell Report: Case Closed*, addressed claims of alien bodies by attributing them to misremembered sightings of anthropomorphic crash-test dummies dropped from high-altitude balloons in the 1950s, combined with temporal compression of memories.
@@ -22,6 +24,8 @@ The **U.S. General Accounting Office (GAO)** conducted its own independent inves
 
 ## 2. Phoenix Lights 1997
 
+![Phoenix Lights illustration](https://upload.wikimedia.org/wikipedia/commons/4/44/Phoenix_Lights.jpg)
+
 On the evening of March 13, 1997, thousands of people across a 300-mile corridor from Henderson, Nevada, through Phoenix, Arizona, and south to Tucson reported witnessing anomalous lights in the sky, in what has been called "perhaps the most widely witnessed UFO event in history," with estimates of 10,000 to 20,000 eyewitnesses on that single night. The sightings actually comprised two distinct events: the first, occurring around 8:30 PM, involved a V-shaped or boomerang-shaped formation of lights that moved slowly and silently from the northwest across the Phoenix metro area; the second, around 10:00 PM, consisted of a series of stationary, bright orange lights that appeared over the Estrella Mountains southwest of Phoenix and slowly dropped before disappearing.
 
 Witnesses described the first formation as an enormous, solid craft -- some estimated it at over a mile wide -- that blocked out the stars as it passed overhead, moving silently at low altitude. The U.S. military eventually attributed the second set of lights to **illumination flares** dropped by A-10 Thunderbolt II aircraft of the Maryland Air National Guard during training exercises at the Barry Goldwater Range, part of **Operation Snowbird**, a winter pilot-training program based out of Davis-Monthan Air Force Base. The first formation was also officially attributed to A-10 aircraft flying over Phoenix while returning to Davis-Monthan, though many witnesses vehemently disputed this, insisting the lights were attached to a single solid object.
@@ -39,6 +43,8 @@ Witnesses described the first formation as an enormous, solid craft -- some esti
 ---
 
 ## 3. Belgian UFO Wave 1989--1990
+
+![Belgian Air Force F-16 during UFO wave](https://upload.wikimedia.org/wikipedia/commons/4/48/Belgian_F-16_at_the_2005_Koksijde_Air_Show.jpg)
 
 Between November 29, 1989, and April 1990, Belgium experienced an unprecedented wave of UFO sightings centered on reports of large, silent, triangular craft with bright lights at each corner and often a pulsing red or orange light in the center. The wave began on the evening of November 29, 1989, when two Belgian police officers near Eupen reported a silent, black triangular object hovering at low altitude, and over the following months, more than **13,500 people** filed sighting reports, with over **2,600 written statements** collected by SOBEPS (the Belgian Society for the Study of Space Phenomena). Witnesses included police officers, military personnel, pilots, scientists, and engineers, lending significant credibility to the reports; descriptions consistently noted craft approximately 120 feet in span that could hover silently before accelerating rapidly.
 

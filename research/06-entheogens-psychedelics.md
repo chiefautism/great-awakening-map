@@ -44,6 +44,8 @@ Sources:
 
 ## 3. Psilocybin Mushrooms -- Spiritual and Therapeutic Use
 
+![Psilocybe cubensis mushrooms](https://upload.wikimedia.org/wikipedia/commons/2/27/Psilocybe_cubensis_%28Cuba%29.jpg)
+
 **Ancient history.** Archaeological evidence indicates that psilocybin-containing mushrooms were used in Mesoamerica as far back as 3,000 years ago. The Aztecs called them *teonanacatl* -- "god's flesh" -- and employed them in religious and healing rituals. Indigenous American cultures continue to use psilocybin mushrooms in religious, divinatory, and spiritual contexts, revering them as sacraments that provide access to sacred dimensions.
 
 **Modern scientific history.** In 1957, banker and amateur mycologist R. Gordon Wasson published a *Life* magazine account of his participation in a Mazatec mushroom ceremony, bringing psilocybin to Western attention. In 1959, Albert Hofmann (discoverer of LSD) became the first to extract pure psilocybin from *Psilocybe mexicana*. His employer, Sandoz, marketed it to clinicians as an aid in psychotherapy. Research flourished through the 1960s until the U.S. Controlled Substances Act of 1970 criminalized psilocybin and effectively halted human research for decades.
@@ -63,6 +65,8 @@ Sources:
 ---
 
 ## 4. Ayahuasca -- Shamanic Brew and Modern Use
+
+![Ayahuasca brew](https://upload.wikimedia.org/wikipedia/commons/d/d5/Ayahuasca_and_chacruna_cocinando.jpg)
 
 **Composition.** Ayahuasca is a psychoactive decoction traditionally prepared from two Amazonian plants: the *Banisteriopsis caapi* vine, which contains beta-carboline alkaloids (harmine, harmaline, tetrahydroharmine) that function as monoamine oxidase inhibitors (MAOIs), and leaves of *Psychotria viridis* or similar plants containing DMT. The MAOIs prevent the gut from breaking down DMT, allowing it to reach the brain orally and produce effects lasting 4--6 hours.
 

@@ -357,6 +357,8 @@ A widespread conspiracy theory asserts that the far side of the Moon (often inac
 
 ## 13. Project Paperclip -- Actual History
 
+![Wernher von Braun at his desk, 1964](https://upload.wikimedia.org/wikipedia/commons/5/56/Wernher_von_Braun_1960.jpg)
+
 ### Verified Historical Facts
 
 **Operation Paperclip** (originally called **Project Overcast**) was a real, now-declassified U.S. government program that recruited approximately **1,600 German and Austrian scientists, engineers, and technicians** to the United States after World War II.

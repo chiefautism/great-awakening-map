@@ -4,6 +4,8 @@
 
 ## 1. The Federal Reserve
 
+![Federal Reserve Building, Washington D.C.](https://upload.wikimedia.org/wikipedia/commons/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg)
+
 ### The Jekyll Island Meeting (November 1910)
 
 In November 1910, six men traveled under extreme secrecy to the Jekyll Island Club, a private retreat off the coast of Georgia, to draft a plan that would reshape American banking forever. The attendees were Senator Nelson Aldrich (Republican chair of the Senate Finance Committee and father-in-law to John D. Rockefeller Jr.), A. Piatt Andrew (Assistant Secretary of the Treasury), Henry P. Davison (senior partner at J.P. Morgan & Co.), Frank A. Vanderlip (president of National City Bank of New York, the largest bank in America at the time), Paul M. Warburg (a German-born partner at the investment bank Kuhn, Loeb & Co. who had studied European central banking extensively), and Arthur Shelton (Aldrich's personal secretary). It is worth noting that Benjamin Strong, who later became the first president of the Federal Reserve Bank of New York, is often listed among attendees in conspiracy literature, but the [Federal Reserve's own historical records](https://www.federalreservehistory.org/essays/jekyll-island-conference) and Warburg's first-person account do not place Strong at the meeting. Aldrich created a cover story of a "duck hunting trip" and instructed each participant to arrive separately at a New Jersey train terminal where they would board his private railcar. "We had disappeared from the world onto a deserted island," Vanderlip later recalled in his autobiography, describing the intense period of work that lasted more than a week. The participants did not publicly admit the meeting had occurred until the 1930s, and the secrecy surrounding the gathering has fueled decades of suspicion about the Federal Reserve's true purpose. The plan that emerged called for a "Reserve Association of America" -- a single central bank with fifteen regional branches, each governed by boards elected by member banks, with larger banks receiving more votes. This elite, banker-driven framework for monetary reform became the intellectual skeleton upon which the [Federal Reserve Act](https://en.wikipedia.org/wiki/Federal_Reserve_Act) was later constructed. Critics point to the composition of the group -- representatives of the Morgan, Rockefeller, and Warburg financial empires -- as evidence that the Fed was designed from inception to serve Wall Street rather than Main Street. Defenders counter that it was natural for monetary reform to involve the nation's leading financial minds, and that the final legislation included significant democratic safeguards that the Jekyll Island plan lacked.
@@ -147,6 +149,8 @@ The most persistent cryptocurrency conspiracy theory holds that [Bitcoin was cre
 ---
 
 ## 10. The Georgia Guidestones
+
+![Georgia Guidestones](https://upload.wikimedia.org/wikipedia/commons/3/35/Georgia_Guidestones_2014-08-28.jpg)
 
 ### Origin and Construction
 

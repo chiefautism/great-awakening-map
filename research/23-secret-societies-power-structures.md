@@ -25,6 +25,8 @@ Sources:
 
 ## 2. Freemasonry
 
+![Masonic Square and Compasses](https://upload.wikimedia.org/wikipedia/commons/f/ff/Square_compasses.svg)
+
 Freemasonry's roots trace back to the local guilds of stonemasons that arose in the late 14th century to regulate the qualifications of their members, manage interactions with clients and authorities, and protect trade secrets. These operative masons were highly skilled craftsmen who possessed deep understanding of geometry and engineering, and they organized themselves into guilds to safeguard their craft knowledge and provide mutual aid. Over time, these operative lodges began admitting non-stonemasons -- so-called "speculative" or "accepted" masons -- who were drawn to the fraternity's symbolic and philosophical teachings. On St. John the Baptist's Day, June 24, 1717, four lodges in London met at the Goose and Gridiron Alehouse in St. Paul's Churchyard and made the historic decision to unite and form a Grand Lodge, which would serve as a central authority to grant charters for new lodges and standardize ritual and regulations. When this premier Grand Lodge was formed, there were only two recognized degrees: Entered Apprentice and Fellow Craft; the third degree, Master Mason, was formalized later and became the climax of what is known as Blue Lodge Masonry, the foundational three degrees through which every Mason must pass.
 
 Beyond Blue Lodge, two major appendant bodies developed: the York Rite and the Scottish Rite. The York Rite consists of three primary bodies -- the Chapter of Royal Arch Masons, the Council of Royal and Select Masters (Cryptic Masons), and the Commandery of Knights Templar -- with the Knights Templar Commandery requiring its members to profess the Christian faith. The Scottish Rite, which was formally established with the formation of the Mother Supreme Council at Charleston, South Carolina, in May 1801, offers an elaborate series of degrees numbered 4 through 33, with the 33rd degree being an honorary distinction conferred for exceptional service. Fourteen U.S. presidents have been confirmed Freemasons, including George Washington (initiated in 1752 at Fredericksburg, Virginia, who later performed Masonic ceremonies at the cornerstone laying of the U.S. Capitol on September 18, 1793), James Monroe, Andrew Jackson, James Polk, James Buchanan, Andrew Johnson, James Garfield, William McKinley, Theodore Roosevelt, William Howard Taft, Warren G. Harding, Franklin D. Roosevelt, Harry S. Truman, and Gerald R. Ford. Beyond politics, confirmed members include Wolfgang Amadeus Mozart, Winston Churchill, Benjamin Franklin, Marquis de Lafayette, Mark Twain, Sir Arthur Conan Doyle, Oscar Wilde, Booker T. Washington, W.E.B. DuBois, Thurgood Marshall, John Wayne, Harry Houdini, Charles Lindbergh, and Edwin "Buzz" Aldrin.
@@ -45,6 +47,8 @@ Sources:
 ---
 
 ## 3. Knights Templar
+
+![Templar cross](https://upload.wikimedia.org/wikipedia/commons/0/06/Cross-Pattee-red.svg)
 
 The Knights Templar, formally known as the Poor Fellow-Soldiers of Christ and of the Temple of Solomon, were founded in the aftermath of the First Crusade to protect Christian pilgrims traveling to the Holy Land. On Christmas Day, 1119, King Baldwin II of Jerusalem persuaded a group of French knights led by Hugues de Payens to devote themselves to this mission, and he granted them quarters on the Temple Mount in Jerusalem -- the site from which they took their name. Endorsed by the Catholic Church at the Council of Troyes in 1129, the order rapidly grew in wealth, power, and prestige, establishing a vast network of properties across Europe and the Levant, developing an early form of banking that allowed pilgrims to deposit funds in one location and withdraw them in another, and fielding one of the most formidable military forces of the medieval world. At their height, the Templars numbered approximately 15,000 to 20,000 members, including knights, sergeants, and chaplains, and their wealth rivaled that of many kingdoms.
 
@@ -84,6 +88,8 @@ Sources:
 ---
 
 ## 5. Bohemian Grove
+
+![Bohemian Grove entrance](https://upload.wikimedia.org/wikipedia/commons/e/e4/Bohemian_grove_entrance_sign.jpg)
 
 The Bohemian Club was founded in 1872 in San Francisco by a group of journalists, artists, and musicians who sought an escape from the pressures of city life and a venue for creative camaraderie. In 1878, approximately 100 club members held a farewell party for founding member Henry "Harry" Edwards in the redwoods of Marin County, near what is now Samuel P. Taylor State Park; the event was so successful that members voted to make it an annual tradition. By 1899, the club had purchased its permanent campground from Melvin Cyrus Meeker in Monte Rio, California -- a 2,700-acre old-growth redwood grove along the Russian River in Sonoma County that would become one of the most secretive gathering places in American history. The annual summer encampment, held in July, lasts approximately two to three weeks and hosts roughly 2,000 to 3,000 members and guests who stay in over 100 individual camps with names like Cave Man, Mandalay, Hillbillies, and Owl's Nest, each with its own character and traditions.
 

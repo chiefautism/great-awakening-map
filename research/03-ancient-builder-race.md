@@ -138,6 +138,8 @@ Venus's surface temperature exceeds 450 degrees C (roughly 860 degrees F) with c
 
 ## 6. Cydonia -- Face on Mars, Pyramids, 19.5 Degrees
 
+![Cydonia Face on Mars (Viking 1, 1976)](https://upload.wikimedia.org/wikipedia/commons/7/76/Martian_face_viking_cropped.jpg)
+
 **Context on the map:** "Cydonia" / "Pyramids -- 19.5 degrees" / "FACE on MARS -- Pharaoh Sarcophagus"
 
 ### The original discovery
@@ -232,6 +234,8 @@ Sleep paralysis, false memory syndrome, suggestibility under hypnosis, and the c
 ---
 
 ## 9. Oumuamua -- Actual Science + Conspiracy Interpretations
+
+![Artist's impression of Oumuamua](https://upload.wikimedia.org/wikipedia/commons/4/44/%CA%BBOumuamua_%28artist%27s_impression%29.jpg)
 
 **Context on the map:** "ANCIENT BUILDER RACE DERELICT SHIP 1B/YRS OLD" / "Enters through Outer Energetic Barrier and intercepted by SSP Alliance (2018)"
 

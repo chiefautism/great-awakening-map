@@ -160,6 +160,8 @@ There is **no archaeological, textual, or physical evidence** supporting the pow
 
 ## 6. Gobekli Tepe -- Actual Archaeology
 
+![Göbekli Tepe pillar](https://upload.wikimedia.org/wikipedia/commons/e/ed/G%C3%B6bekli_Tepe%2C_Urfa.jpg)
+
 ### What the Map Says
 > Gobekli Tepe (listed among ancient sites)
 
@@ -230,6 +232,8 @@ Tellinger's claims are **rejected by mainstream archaeology**. Key criticisms:
 ---
 
 ## 8. Puma Punku -- Actual Ruins + Ancient Astronaut Theories
+
+![Puma Punku H-blocks](https://upload.wikimedia.org/wikipedia/commons/9/9d/Puma_Punku_Tiwanaku.jpg)
 
 ### What the Map Says
 > Puma Punku -- Semir Osmanagic (Note: the map appears to misattribute; Puma Punku is in Bolivia, not connected to Osmanagic who is associated with the Bosnian Pyramids)
@@ -337,6 +341,8 @@ Erich von Daniken (*Chariots of the Gods*, 1968) claimed the Nazca Lines were **
 ---
 
 ## 11. Crop Circles -- Phenomenon, Explanations, Hoaxes
+
+![Crop circle in Switzerland](https://upload.wikimedia.org/wikipedia/commons/3/33/Crop_circles_Diessenhofen_2008-07-17.jpg)
 
 ### What the Map Says
 > Crop Circles -- LIGHT ORBS -- E.T. LIGHT SHIPS

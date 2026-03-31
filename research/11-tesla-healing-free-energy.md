@@ -6,6 +6,8 @@ Research compiled from web sources. Each section covers the factual basis (where
 
 ## 1. Nikola Tesla -- 3 6 9, Wireless Free Energy
 
+![Nikola Tesla](https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg)
+
 ### Actual Inventions
 
 Nikola Tesla (1856--1943) was a Serbian-American inventor and engineer whose genuine contributions to science and technology are extensive and well-documented:
@@ -381,6 +383,8 @@ While specific outbreak conspiracy theories are unsupported, genuine biosecurity
 ---
 
 ## 15. HAARP -- Facility and Conspiracy Theories
+
+![HAARP antenna array in Gakona, Alaska](https://upload.wikimedia.org/wikipedia/commons/c/c7/HAARP20l.jpg)
 
 ### What HAARP Actually Is
 

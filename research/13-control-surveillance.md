@@ -394,6 +394,9 @@ Smart meters are digital devices that record electricity consumption and transmi
 Radio-Frequency Identification (RFID) technology uses electromagnetic fields to identify and track tags attached to objects. The conspiracy narrative centers on the **"Mark of the Beast"** from the Book of Revelation (13:16-17), which describes a mark on the right hand or forehead required to buy or sell. Since implantable RFID chips are typically placed in the hand and can be used for payments, some religious conspiracy theorists interpret them as a literal fulfillment of biblical prophecy. However, current implantable RFID chips do not have GPS tracking capability and can only be read at very short range.
 
 ### 5G
+
+![5G cell tower](https://upload.wikimedia.org/wikipedia/commons/4/4e/Small_cell_5G_on_pole.jpg)
+
 Fifth-generation cellular networks became the target of intense conspiracy theorizing, especially during the COVID-19 pandemic. Key false narratives include:
 - **Immunosuppression:** Claims that 5G radiation weakens the immune system, making people vulnerable to COVID-19.
 - **Virus transmission:** Claims that 5G towers actually transmit or "activate" the coronavirus.

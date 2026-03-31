@@ -6,6 +6,8 @@ This document provides in-depth, source-backed research on 15 "Lost Civilization
 
 ## 1. Atlantis -- Plato's Account, Location Theories, Edgar Cayce
 
+![Athanasius Kircher's map of Atlantis (1669)](https://upload.wikimedia.org/wikipedia/commons/2/23/Athanasius_Kircher%27s_Atlantis.gif)
+
 ### Plato's Account in the Timaeus and Critias
 
 The only primary sources for Atlantis are two dialogues written by the Greek philosopher Plato around 360 BC: the *Timaeus* and the *Critias*. In these texts, the Athenian statesman Critias recounts a story passed down from Solon, the great Athenian lawgiver, who reportedly heard it from Egyptian priests at Sais during a visit between 590 and 580 BC. According to the account, the priests told Solon that 9,000 years before his time -- roughly 9600 BC -- there existed a great island civilization "beyond the Pillars of Hercules" (the Strait of Gibraltar) that was larger than Libya and Asia Minor combined. Plato describes Atlantis as a maritime empire founded by the god Poseidon, who fell in love with a mortal woman named Cleito and built concentric rings of sea and land around the central hill where she lived -- two rings of land and three of water, equally spaced. The central island held a magnificent temple to Poseidon, with walls coated in silver, pinnacles of gold, and an interior roof of ivory decorated with gold, silver, and the mysterious metal orichalcum, which "flashed with the red light" and was said to be more valuable than anything except gold. The outer walls of the concentric rings were coated in brass and tin, respectively. Atlantis possessed hot and cold springs, elaborate canal systems, a vast harbor, and an army of 1.2 million soldiers. Critically, Plato presents Atlantis as a moral parable: the Atlanteans grew arrogant, attempted to conquer Athens and the Mediterranean, and were defeated by the virtuous Athenians. As divine punishment, "in a single day and night of misfortune," Atlantis sank beneath the ocean. Most classical scholars consider the story a philosophical allegory about hubris, not a historical account, noting that Plato was known for inventing illustrative myths (such as the allegory of the cave) to make philosophical points.
@@ -75,6 +77,8 @@ The Hyperborea myth became deeply embedded in esoteric Nazi ideology. In the lat
 ---
 
 ## 4. Younger Dryas Impact Hypothesis -- Science, Carlson, Controversy
+
+![Younger Dryas temperature reconstruction](https://upload.wikimedia.org/wikipedia/commons/f/f3/Younger_Dryas_temperature_variation.png)
 
 ### The Scientific Hypothesis
 

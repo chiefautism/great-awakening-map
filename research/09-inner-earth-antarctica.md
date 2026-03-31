@@ -51,6 +51,8 @@ These claims are entirely unverified. No physical evidence, independent witnesse
 
 ## 3. Antarctica Conspiracy Theories
 
+![Antarctica from space](https://upload.wikimedia.org/wikipedia/commons/e/e0/Antarctica_6400px_from_Blue_Marble.jpg)
+
 ### The pyramid theory
 
 When satellite images of pyramidal peaks in the **Ellsworth Mountains** circulated on social media beginning in 2016, claims spread that these were artificial pyramids built by an ancient civilization, aliens, or Nazi remnants. Geologists explain these as **glacial horns** (also called nunataks) -- a well-understood landform created when multiple glaciers erode a mountain from different sides, producing a pyramidal shape.
@@ -308,6 +310,8 @@ No stasis chamber technology has ever been demonstrated or recovered. No credibl
 ---
 
 ## 12. Area 51
+
+![Area 51 aerial view](https://upload.wikimedia.org/wikipedia/commons/0/09/Wfm_area_51_landsat_geocover_2000.jpg)
 
 ### Verified history
 

@@ -255,6 +255,8 @@ The map references Kundalini Awakening in the channeling/Bashar section and conn
 
 ## 8. Chakras -- Energy Centers
 
+![Chakra diagram](https://upload.wikimedia.org/wikipedia/commons/2/22/Chakras.png)
+
 ### What It Is
 
 **Chakras** (Sanskrit: cakra, "wheel") are described as spinning disks or vortexes of energy located along the central channel of the body. They are considered loci of **prana** (life force energy) that regulate physical, emotional, and spiritual well-being. The most widely known system identifies **seven primary chakras** running from the base of the spine to the crown of the head.

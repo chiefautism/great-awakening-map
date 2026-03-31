@@ -316,6 +316,8 @@ Researchers note that "redpilling" creates insular communities where "truth" is 
 
 ## 12. WTC7 -- Controlled Demolition Theory / 9/11 Truth
 
+![World Trade Center towers on September 11, 2001](https://upload.wikimedia.org/wikipedia/commons/3/35/September_11_Photo_Montage.jpg)
+
 ### What Happened
 
 7 World Trade Center (WTC 7) was a 47-story skyscraper located north of the main World Trade Center complex. Unlike the Twin Towers, it was not struck by an aircraft on September 11, 2001. However, it was hit by debris from the collapse of the North Tower and burned for approximately seven hours. It collapsed completely at approximately 5:20 PM on September 11.
