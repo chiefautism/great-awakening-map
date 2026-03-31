@@ -7,7 +7,13 @@
 
 ---
 
-## Research Index (~210 topics investigated via web search)
+## What If You Connect It All Together?
+
+**[Read the full meta-analysis](research/00-meta-analysis.md)** — How 200+ topics form a single coherent cosmological narrative, from the Fall of an ancient civilization through a Prison Planet to a prophesied Solar Flash salvation. Includes the complete story arc, interconnection diagrams, psychological analysis of why it's compelling, evidence quality taxonomy, and the radicalization pipeline.
+
+---
+
+## Research Index (~210+ topics investigated via web search)
 
 | # | Section | Topics | File |
 |---|---------|--------|------|
@@ -24,8 +30,17 @@
 | 11 | Tesla, Healing & Free Energy | 18 | [11-tesla-healing-free-energy.md](research/11-tesla-healing-free-energy.md) |
 | 12 | Consciousness & ET Contact | 18 | [12-consciousness-et-contact.md](research/12-consciousness-et-contact.md) |
 | 13 | Control & Surveillance | 20 | [13-control-surveillance.md](research/13-control-surveillance.md) |
+| 14 | 4chan /x/ Live Discussions | 5 threads | [14-4chan-x-discussions.md](research/14-4chan-x-discussions.md) |
+| 15 | Suppressed Technology (Deep) | 15 | [15-suppressed-technology.md](research/15-suppressed-technology.md) |
+| 16 | Solar Flash & Cosmic Cycles (Deep) | 15 | [16-solar-flash-cosmic.md](research/16-solar-flash-cosmic.md) |
+| 17 | Draco, Reptilians & ET Races (Deep) | 15 | [17-draco-reptilians-et-races.md](research/17-draco-reptilians-et-races.md) |
+| 18 | Financial Control & NWO (Deep) | 15 | [18-financial-control-nwo.md](research/18-financial-control-nwo.md) |
+| 19 | Historical Events & Documented Ops (Deep) | 15 | [19-historical-events-documented.md](research/19-historical-events-documented.md) |
+| 20 | Key People & Books | 15 | [20-key-people-and-books.md](research/20-key-people-and-books.md) |
+| 21 | Lost Civilizations (Deep) | 15 | [21-lost-civilizations.md](research/21-lost-civilizations.md) |
+| 22 | UFO/UAP Cases & Programs (Deep) | 15 | [22-ufo-uap-deep-dive.md](research/22-ufo-uap-deep-dive.md) |
 
-**Total: ~210 topics** | **Total research: ~546 KB of sourced analysis**
+**Total: ~330+ topics** | **Total research: ~1.2 MB of web-sourced analysis**
 
 Each topic includes: what the map claims, where the idea originates, what evidence exists (or doesn't), and source URLs.
 
