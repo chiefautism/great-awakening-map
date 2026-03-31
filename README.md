@@ -8,7 +8,7 @@
 
 [![Map](GreatAwakeningMap_2024_V11.jpg)](#the-map-transcription)
 
-`430+ topics` | `33 research files` | `~1.6 MB of sourced analysis` | `5 SVG diagrams`
+`490+ topics` | `38 research files` | `~2.2 MB of sourced analysis` | `5 SVG diagrams`
 
 ---
 
@@ -247,9 +247,34 @@ Every topic on the map — investigated via web search with source URLs.
 <td>MKUltra (149 subprojects), Mockingbird, Paperclip, COINTELPRO, Gladio, Gulf of Tonkin, Northwoods, Iran-Contra, Tuskegee, Project Monarch</td>
 <td>10 topics</td>
 </tr>
+<tr><td colspan="4"><b>Wave 4 — New Domains</b></td></tr>
+<tr>
+<td>33</td>
+<td><a href="research/33-geopolitical-warfare.md">Geopolitics & Warfare</a></td>
+<td>Space Force, BRICS, Op Highjump, Neuschwabenland, Vril Society, Project Blue Beam, Agenda 2030, FEMA Camps, The Storm</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="research/34-sacred-geometry-physics.md">Sacred Geometry & Fringe Physics</a></td>
+<td>Flower of Life, Metatron's Cube, Phi, Vector Equilibrium, Torus, Cymatics, 432Hz, Solfeggio, Holographic Universe, Simulation Theory, Quantum Consciousness</td>
+<td>12 topics</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="research/35-health-biology-claims.md">Health & Biology Claims</a></td>
+<td>Pineal Gland, DNA/12-strand myth, Epigenetics, Gut-Brain, Grounding, Breatharianism, Water Memory, Adrenochrome biochemistry, Rh- Blood</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="research/36-pop-culture-media.md">Pop Culture & Media</a></td>
+<td>The Matrix, Star Wars, Star Trek, Stargate SG-1, Ancient Aliens TV, Gaia TV, Joe Rogan, Predictive Programming, Zeitgeist, They Live</td>
+<td>10 topics</td>
+</tr>
 </table>
 
-**Total: ~430+ topics** | **33 research files** | **~1.6 MB of web-sourced analysis**
+**Total: ~490+ topics** | **38 research files** | **~2.2 MB of web-sourced analysis**
 
 ---
 

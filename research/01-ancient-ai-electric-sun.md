@@ -74,6 +74,8 @@ On the Great Awakening Map, the cosmic web is reinterpreted as a network of "con
 
 ## 5. Saturn's Hexagon -- North Pole Hexagonal Storm
 
+![Saturn's Hexagonal Storm (Cassini)](https://upload.wikimedia.org/wikipedia/commons/3/30/Saturn_hexagonal_north_pole_feature.jpg)
+
 Saturn's hexagon is a persistent, approximately hexagonal cloud pattern centered on the planet's north pole at about 78 degrees N latitude. It is a jet stream roughly 30,000 km (20,000 miles) across with wind speeds of about 500 km/h (300 mph). The feature was first discovered in Voyager mission imagery in 1981 and was extensively studied by the Cassini-Huygens spacecraft from 2006 onward. It has persisted for at least four decades and possibly much longer.
 
 Several explanations have been proposed for the hexagon's formation. One leading model involves **jet stream instability**: small perturbations from interactions with surrounding air currents cause the jet to meander into a hexagonal wave pattern -- six waves encircling the planet produce the hexagon shape. Oxford University researchers successfully recreated analogous polygonal patterns in laboratory rotating fluid experiments. A 2020 study from Caltech and Harvard proposed a **deep atmospheric convection** model, in which smaller cyclones surrounding the polar jet interact with it, effectively pinching and confining it into a geometric shape. The model also invokes **anticyclonic shielding** -- a ring of winds turning opposite to the storms themselves that stabilizes the polygon. One of the enduring mysteries is the hexagon's longevity: hurricanes on Earth last about a week, but this feature has lasted decades or centuries.
@@ -90,6 +92,8 @@ On the Great Awakening Map, Saturn's hexagon is listed under "Hyperdimensional H
 ---
 
 ## 6. Mimas -- Saturn's "Death Star" Moon
+
+![Mimas (Cassini)](https://upload.wikimedia.org/wikipedia/commons/b/bc/Mimas_Cassini.jpg)
 
 Mimas is the smallest and innermost of Saturn's major moons, with a mean diameter of about 396 km. Its most prominent feature is the **Herschel crater** (named after William Herschel, who discovered the moon in 1789), a massive impact basin 139 km across -- roughly one-third of Mimas's diameter. With walls 5 km high, a floor 10 km deep, and a central peak rising 6 km, Herschel gives Mimas an unmistakable resemblance to the Death Star from *Star Wars*. This resemblance is entirely coincidental: Mimas was not seen in detail until Voyager 1 flew through the Saturn system in 1980, three years after the first Star Wars film. The impact that created Herschel approximately 4.1 billion years ago nearly shattered the moon; the surface on the opposite side shows disruption from shock waves propagating through the entire body.
 
