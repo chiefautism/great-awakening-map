@@ -8,7 +8,7 @@
 
 [![Map](GreatAwakeningMap_2024_V11.jpg)](#the-map-transcription)
 
-`330+ topics` | `22 research files` | `~1 MB of sourced analysis` | `5 SVG diagrams`
+`430+ topics` | `33 research files` | `~1.6 MB of sourced analysis` | `5 SVG diagrams`
 
 ---
 
@@ -186,7 +186,70 @@ Every topic on the map — investigated via web search with source URLs.
 <td>Grusch, Nimitz/Tic Tac, Skinwalker, Travis Walton, Betty & Barney Hill, Vallee</td>
 <td>15 topics</td>
 </tr>
+<tr><td colspan="4"><b>Wave 3 — Ultra Deep Dives (15-25 sentences per topic, full histories)</b></td></tr>
+<tr>
+<td>23</td>
+<td><a href="research/23-secret-societies-power-structures.md">Secret Societies & Power Structures</a></td>
+<td>Illuminati, Freemasons, Templars, Skull & Bones, Bohemian Grove, Bilderberg, CFR, Trilateral, Golden Dawn, Rosicrucians</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="research/24-et-races-deep-dive.md">Every ET Race Claimed</a></td>
+<td>Draco, Greys, Nordics, Pleiadians, Arcturians, Sirians, Annunaki, Mantids, Andromedans, Lyrans, Blue Avians, Anshar, Ashtar Command</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="research/25-psychedelics-consciousness-deep-dive.md">Psychedelics & Consciousness</a></td>
+<td>DMT full study data, McKenna biography, Psilocybin trials, Ayahuasca, LSD/MKUltra, Remote Viewing, NDEs, Kundalini, Meditation neuroscience, GCP</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="research/26-ufo-cases-deep-dive.md">UFO Cases — Full Reconstructions</a></td>
+<td>Roswell minute-by-minute, Grusch testimony, Nimitz/Tic Tac, Lazar, Walton, Hill, Rendlesham, Phoenix Lights, Belgian Wave, Ariel School, Varginha</td>
+<td>15 topics</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="research/27-ancient-mysteries-deep-dive.md">Ancient Mysteries & Sites</a></td>
+<td>Great Pyramid (muon tomography), Sphinx erosion, Gobekli Tepe, Younger Dryas, Atlantis theories, Puma Punku, Nazca, Antikythera, Derinkuyu</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="research/28-tesla-suppressed-science-deep-dive.md">Tesla & Suppressed Science</a></td>
+<td>Tesla full biography, Zero-Point physics, Cold Fusion/LENR, Wilhelm Reich, Royal Rife, HAARP, Chemtrails, Fluoride, Scalar Weapons, DEWs</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="research/29-financial-system-deep-dive.md">Financial System & Control</a></td>
+<td>Federal Reserve (Jekyll Island), Rothschilds, BIS, WEF/Great Reset, NESARA, Petrodollar, Fractional Reserve, Gold Standard, Bitcoin, Georgia Guidestones</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="research/30-key-figures-deep-dive.md">Key Conspiracy Figures</a></td>
+<td>Icke, Alex Jones, Bill Cooper, Bob Lazar, Steven Greer, Graham Hancock, Zecharia Sitchin, Jacques Vallee, John Mack, Dolores Cannon</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="research/31-qanon-modern-conspiracies-deep-dive.md">QAnon & Modern Conspiracies</a></td>
+<td>QAnon full history, Pizzagate, Epstein case, Adrenochrome, 9/11 Truth, Sandy Hook, Flat Earth, Sovereign Citizens, Great Replacement, Anti-Vax</td>
+<td>10 topics</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="research/32-mind-control-intelligence-deep-dive.md">MKUltra & Intelligence Operations</a></td>
+<td>MKUltra (149 subprojects), Mockingbird, Paperclip, COINTELPRO, Gladio, Gulf of Tonkin, Northwoods, Iran-Contra, Tuskegee, Project Monarch</td>
+<td>10 topics</td>
+</tr>
 </table>
+
+**Total: ~430+ topics** | **33 research files** | **~1.6 MB of web-sourced analysis**
 
 ---
 
