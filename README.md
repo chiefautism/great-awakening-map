@@ -3,6 +3,8 @@
 **Author of the map:** Parinya "Champ" — ArtHouse
 **Subtitle:** THE GREAT AWAKENING • OPTIMAL TIMELINE REALITY • FULL DISCLOSURE
 
+![Great Awakening Map V11](GreatAwakeningMap_2024_V11.jpg)
+
 ---
 
 ## Research Index (~210 topics investigated via web search)
@@ -26,14 +28,6 @@
 **Total: ~210 topics** | **Total research: ~546 KB of sourced analysis**
 
 Each topic includes: what the map claims, where the idea originates, what evidence exists (or doesn't), and source URLs.
-
----
-
-## Other files
-
-- `GreatAwakeningMap_2024_V11.jpg` — Original map image (5400x7200, 10MB)
-- `ocr_lightOn.txt` — Raw OCR output via LightOnOCR-2-1B (48 tiles)
-- `tiles/` — 48 image tiles used for OCR
 
 ---
 
